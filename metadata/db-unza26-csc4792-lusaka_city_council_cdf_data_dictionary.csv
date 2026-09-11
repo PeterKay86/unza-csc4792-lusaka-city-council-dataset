@@ -1,0 +1,30 @@
+column_name|data_type|required|used_in|description|example|missing_value_rule
+record_id|Text|Yes|All datasets|Unique identifier assigned to each record|LCC-CDF-P001|Must not be missing
+source_post_id|Integer|No|CDF articles|WordPress identifier assigned by the council website|6859|Leave empty when unavailable
+financial_year|Integer|No|CDF projects; CDF allocations|Year associated with the project or allocation|2025|Leave empty when the source does not state the year
+publication_date|Date|No|CDF articles|Date on which the council published the article|2025-10-22|Leave empty when unavailable
+constituency|Text|No|CDF projects; CDF allocations|Lusaka constituency associated with the record|Matero|Leave empty when the source does not identify it
+constituencies|Text|No|CDF articles|One or more constituencies mentioned in an article|Kanyama; Matero|Separate multiple values using semicolons
+ward|Text|No|CDF projects|Ward associated with the project|Mwembeshi Ward 31|Leave empty when unavailable
+wards|Text|No|CDF articles|One or more wards mentioned in an article|Lima Ward 30|Separate multiple values using semicolons
+project_name|Text|Yes|CDF projects|Official or reported name of the CDF project|Madimba Water Reticulation Project|Must not be missing in the final dataset
+project_category|Category|No|CDF projects|Type of infrastructure or community intervention|Water and sanitation|Use standard category names
+project_description|Text|No|CDF projects|Brief description of the project and its purpose|Construction of a community water system|Leave empty when unavailable
+approved_budget_zmw|Decimal|No|CDF projects|Approved project budget in Zambian kwacha|1500000|Record numbers without currency symbols or commas
+amount_disbursed_zmw|Decimal|No|CDF projects; CDF allocations|Amount released for the project or programme|1000000|Record numbers without currency symbols or commas
+amount_spent_zmw|Decimal|No|CDF projects; CDF allocations|Amount reported as spent|750000|Record numbers without currency symbols or commas
+project_status|Category|No|CDF projects|Latest project implementation status reported by the source|Completed|Use standardised status values
+completion_percentage|Decimal|No|CDF projects|Reported percentage of project completion|80|Use values from 0 to 100
+approval_date|Date|No|CDF projects|Date on which the project was approved|2025-02-14|Use YYYY-MM-DD
+completion_date|Date|No|CDF projects|Reported project completion date|2025-10-22|Use YYYY-MM-DD
+beneficiaries|Text|No|CDF projects|Reported people or communities benefiting from the project|Residents of Mwembeshi Ward 31|Leave empty when unavailable
+contractor|Text|No|CDF projects|Company or organisation implementing the project|ABC Construction Limited|Leave empty when unavailable
+allocation_category|Category|Yes|CDF allocations|CDF programme component receiving the allocation|Community Projects|Must not be missing
+approved_allocation_zmw|Decimal|Yes|CDF allocations|Approved amount for the allocation category|153738842|Record numbers without currency symbols or commas
+unspent_balance_zmw|Decimal|No|CDF allocations|Reported balance remaining after expenditure|250000|Record numbers without currency symbols or commas
+title|Text|Yes|CDF articles|Official title of the council article|CDF-Funded Madimba Water Reticulation Project Officially Handed Over|Must not be missing
+article_text|Text|No|CDF articles|Plain-text content extracted from the official article|The project was handed over to the community|Leave empty when the article contains no accessible text
+source_title|Text|No|CDF projects; CDF allocations|Title of the official source document or webpage|Lusaka City Council Approved 2025 Budget|Leave empty only when unavailable
+source_url|URL|Yes|All datasets|Official webpage or document from which the record was obtained|https://www.lcc.gov.zm/|Must not be missing
+date_accessed|Date|Yes|All datasets|Date on which the source was accessed|2026-09-11|Use YYYY-MM-DD
+notes|Text|No|CDF projects; CDF allocations|Important limitations or validation information|Automatically extracted candidate requiring validation|Leave empty when no note is necessary
