@@ -1,0 +1,19 @@
+CDF FINAL QUALITY REPORT
+
+Project records: 301
+Project columns: 20
+Allocation records: 19
+Allocation columns: 12
+Duplicate project keys: 0
+Projects missing source information: 0
+Invalid project statuses: []
+
+Project status counts:
+- Approved: 79
+- Deferred: 112
+- Planned: 110
+
+Final structural validation: PASS
+
+Blank financial fields mean not reported, not zero.
+Known source discrepancies are documented in metadata/cdf_verification_notes.md.

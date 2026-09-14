@@ -1,4 +1,7 @@
 beautifulsoup4==4.12.3
 requests==2.32.3
 pandas==2.2.3
-jupyter==1.1.1
+jupyter==1.1.1pdfplumber==0.11.10
+openpyxl==3.1.5
+PyMuPDF==1.28.2
+pytesseract==0.3.13
