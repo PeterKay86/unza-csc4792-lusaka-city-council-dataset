@@ -1,0 +1,6643 @@
+===== PAGE 1 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 1
+9006
+HEAD
+LUSAKA CITY COUNCIL
+1.0   MANDATE
+2.0   STRATEGY
+3.0   NATIONAL DEVELOPMENT PLAN FRAMEWORK
+	To provide municipal services through operational and service excellence, innovation, community
+engagement and observance of good financial management and accountability. This is in agreement
+with the Republican Constitution (Amendment) Act No.2 of 2016 Part IX on the System of Devolved
+Governance [Article 147 (2)] and Part XI on the System of Local Government.
+Lusaka City Council is committed to delivering effective, efficient, and sustainable public services that
+promote inclusive urban growth and improved quality of life for all residents. Guided by the Eighth
+National Development Plan (8NDP), the Integrated Development Plan (IDP), and the Sustainable
+Development Goals (SDGs), the Council will strengthen systems for transparent governance, resource
+mobilization, and accountable service delivery. The Council will prioritize infrastructure development,
+environmental resilience, and social inclusion through evidence-based planning, community
+participation, and innovation. By fostering strategic partnerships with stakeholders, enhancing digital
+transformation, and mainstreaming climate action, Lusaka City Council will ensure a well-planned,
+healthy, safe, and economically vibrant city for present and future generations.
+01
+Economic Transformation and Job Creation
+Cluster :
+01
+An Industrialised and Diversified Economy
+Cluster Outcome
+03
+Promote value addition and manufacturing
+Strategy :
+05
+Improve transport and logistics
+Strategy :
+02
+Enhanced Citizenry Participation in the Economy
+Cluster Outcome
+01
+Promote local and diaspora participation in the economy
+Strategy :
+02
+Promote Enterprise development
+Strategy :
+04
+Promote Financial Inclusion
+Strategy :
+02
+Human and Social Development
+Cluster :
+01
+Improved Education and Skills Development
+Cluster Outcome
+01
+Enhance access to quality, equitable and inclusive education
+Strategy :
+02
+Improve technical, vocational and entrepreneurship skills
+Strategy :
+03
+Increased access to higher education
+Strategy :
+02
+Improved Health, Food and Nutrition
+Cluster Outcome
+01
+Strengthen Public health
+Strategy :
+02
+Increase access to quality health care
+Strategy :
+03
+Enhanced food security and nutrition
+Strategy :
+04
+Strengthen Integrated Health Information Systems
+Strategy :
+03
+Improved Water Supply and Sanitation
+Cluster Outcome
+01
+Improve access to clean and safe water supply
+Strategy :
+02
+Improve sanitation services
+Strategy :
+04
+Reduced Poverty, Vulnerability and Inequalities
+Cluster Outcome
+01
+Improved Coordination of Social Protection Programmes
+Strategy :
+02
+Enhance welfare and livelihoods of poor and vulnerable people
+Strategy :
+03
+Reduce developmental inequalities
+Strategy :
+
+===== PAGE 2 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 2
+9006
+HEAD
+LUSAKA CITY COUNCIL
+03
+Environmental Sustainability
+Cluster :
+01
+Enhanced Mitigation and adaptation to Climate Change
+Cluster Outcome
+01
+Strengthen climate change adaptation
+Strategy :
+02
+Strengthen climate change mitigation
+Strategy :
+03
+Enhance disaster risk reduction and response
+Strategy :
+02
+Sustainable Environment and Natural Resources Management
+Cluster Outcome
+01
+Promote Integrated Environmental Management
+Strategy :
+02
+Enhance natural resources management
+Strategy :
+04
+Good Governance Environment
+Cluster :
+01
+Improved Policy and Governance Environment
+Cluster Outcome
+01
+Decentralise Public Service Delivery Systems
+Strategy :
+02
+Strengthen national data and information systems
+Strategy :
+03
+Strengthen transparency and accountability mechanisms
+Strategy :
+05
+Strengthen public service  performance management systems
+Strategy :
+06
+Strengthen Land Management and Administration
+Strategy :
+02
+Improved Rule of Law, Human Rights and Constitutionalism
+Cluster Outcome
+01
+Strengthen human rights and constitutionalism
+Strategy :
+
+===== PAGE 3 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 3
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Local taxes/rates
+01
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Residential
+279,707,033
+307,677,736
+338,445,510
+001
+Commercial
+148,230,066
+163,053,073
+179,358,380
+002
+427,937,099
+470,730,809
+517,803,890
+SubItem Total
+Personal levy
+2,625,000
+2,887,500
+3,176,250
+001
+2,625,000
+2,887,500
+3,176,250
+SubItem Total
+Fees and Charges
+02
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Consent fees
+270,000
+297,000
+326,700
+001
+Survey fees
+171,547
+188,701
+207,571
+002
+Building inspection-fees
+1,698,198
+1,868,018
+2,054,820
+003
+Plan scrutiny fee
+32,637,868
+35,901,654
+39,491,820
+004
+Change of premise use
+485,581
+534,139
+587,552
+005
+Rentals/lease of Council’s properties
+5,064,643
+5,571,108
+6,128,218
+007
+Search fees
+392,403
+431,643
+474,807
+011
+Market fees
+11,848,620
+13,033,482
+14,336,830
+013
+Parking fees
+7,457,200
+8,202,920
+9,023,212
+014
+Loading fees (buses, trucks, trains, taxies etc.)
+2,810,500
+3,091,550
+3,400,705
+016
+Hire of halls
+2,628,960
+2,891,856
+3,181,042
+020
+Hire of grounds/stadia
+327,900
+360,690
+396,759
+021
+Hoarding fees (Barricading)
+216,000
+237,600
+261,360
+022
+Grave reservation
+8,530
+9,383
+10,321
+025
+Body remains  (exhumation) fees
+15,000
+16,500
+18,150
+026
+Body remains (inspections)fees
+10,500
+11,550
+12,705
+027
+Boundary location (tombstone) fees
+2,140
+2,354
+2,589
+028
+Education fees
+1,633,650
+1,797,015
+1,976,717
+030
+Library  membership  fees
+88,380
+97,218
+106,940
+038
+Rentals from parks
+18,000
+19,800
+21,780
+044
+Notice of marriage fees
+4,503,272
+4,953,597
+5,448,957
+045
+Abattoir/meat inspection  fees
+255,600
+281,160
+309,276
+046
+ Billboards and banners
+28,191,320
+31,010,452
+34,111,497
+063
+Council Minutes Extracts
+156,200
+171,820
+189,002
+065
+Penalties
+3,349,000
+3,683,900
+4,052,290
+066
+Sale of fingerings
+18,000
+19,800
+21,780
+085
+Other fees and charges
+9,303,865
+10,234,252
+11,257,676
+099
+113,562,875
+124,919,161
+137,411,076
+SubItem Total
+Licenses
+03
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Occupancy licence
+1,296,864
+1,426,551
+1,569,205
+001
+Liquor licence
+2,113,065
+2,324,372
+2,556,809
+002
+Firearm and ammunition licence
+330,000
+363,000
+399,300
+003
+Petroleum Storage licence
+1,786,125
+1,964,738
+2,161,211
+004
+Dog licence
+110,700
+121,770
+133,947
+005
+Other Licences
+858,962
+944,858
+1,039,344
+099
+6,495,716
+7,145,288
+7,859,817
+SubItem Total
+
+===== PAGE 4 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 4
+9006
+HEAD
+LUSAKA CITY COUNCIL
+4.0   BUDGET SUMMARY
+Levies
+04
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Pole levy
+575,858
+633,444
+696,789
+004
+Telecommunication Mast
+2,345,187
+2,579,706
+2,837,676
+011
+Trading (Wholesale) Business Levy
+62,806,557
+69,087,212
+75,995,933
+017
+65,727,602
+72,300,362
+79,530,398
+SubItem Total
+Permits
+05
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Health permits
+35,837,274
+39,421,002
+43,363,102
+001
+Herbalist permit
+322
+354
+390
+003
+Transportation of meat products
+158,000
+173,800
+191,180
+005
+Burial permits and grave sites
+913,260
+1,004,586
+1,105,045
+008
+Fire certificate
+56,096,929
+61,706,621
+67,877,283
+009
+Extension of Business hours permits
+120,000
+132,000
+145,200
+010
+Social gathering permit
+180,000
+198,000
+217,800
+011
+Primary, Secondary and Tertiary permits
+118,007
+129,808
+142,789
+099
+93,423,792
+102,766,171
+113,042,788
+SubItem Total
+Charges
+06
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Sub-division of plot
+18,055,000
+19,860,500
+21,846,550
+010
+18,055,000
+19,860,500
+21,846,550
+SubItem Total
+Other Incomes
+07
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Surplus/ Deficit from Commercial Ventures
+16,606,500
+18,267,150
+20,093,865
+002
+16,606,500
+18,267,150
+20,093,865
+SubItem Total
+National Support (Grants)
+08
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Roads Grant
+6,351,370
+6,986,507
+7,685,158
+002
+Health Grant
+25,141,073
+27,655,180
+30,420,698
+003
+Local Government Equalisation Fund
+32,400,000
+35,640,000
+39,204,000
+004
+Grants in lieu of Rates
+2,000,000
+2,200,000
+2,420,000
+005
+Other Grants
+61,440,817
+61,628,396
+61,833,838
+099
+127,333,260
+134,110,084
+141,563,695
+SubItem Total
+Local Development Fund
+10
+APPROVED
+BUDGET 2026
+REVISED
+BUDGET 2027
+BUDGET
+ESTIMATE 2028
+CODE
+REVENUE DESCRIPTION
+Constituency Development Fund
+280,227,849
+280,227,849
+280,227,849
+001
+280,227,849
+280,227,849
+280,227,849
+SubItem Total
+1,322,556,178
+1,233,214,874
+Grand Total
+1,151,994,694
+
+===== PAGE 5 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 5
+9006
+HEAD
+LUSAKA CITY COUNCIL
+The Lusaka City Council’s approved budget for 2026 stands at K1.2 billion, representing a 22.5% increase
+from the 2025 allocation of K939.9 million. This growth is driven by strategic investments in community
+development through the expanded Constituency Development Fund (CDF), which continues to finance
+critical community projects, bursaries, and empowerment initiatives across the city’s seven
+constituencies, alongside the implementation of a new Valuation Roll that strengthens the Council’s
+revenue base through improved property rate assessments. The 2026 budget is organized around sixteen
+strategic programmes, designed to advance the priorities of the Eighth National Development Plan
+(8NDP), support Lusaka’s Integrated Development Plan (IDP) objectives, and contribute to the
+achievement of the Sustainable Development Goals (SDGs). Key focus areas include economic
+transformation, inclusive human and social development, environmental sustainability, good
+governance, and resilient urban infrastructure. By aligning local investments with national and global
+development frameworks, resources are directed to interventions that generate measurable impact,
+enhance service delivery, promote social equity, and foster sustainable growth. Overall, the 2026 budget
+underscores Lusaka City Council’s commitment to inclusive development, community empowerment,
+fiscal responsibility, and long-term strategic planning, while maintaining strong alignment with local,
+national, and global development agendas.
+ Budget Allocation by Economic Classification
+Table:1
+In 2026, Lusaka City Council will implement a total budget of K1.2 billion, designed to drive inclusive
+service delivery, infrastructure development, social protection, and financial sustainability. The largest
+Figure 1:  Budget Allocation by Economic Classification
+27.44%
+4.28%
+2.54%
+5.89%
+28.22%
+26.75%
+4.86%
+ Goods and Services
+Current Liabilities (Payable within one year)
+Financial Assets
+Grants and Other Payments(Transfers)
+Non-Financial Assets
+Personal Emoluments
+Social Assistance Benefits
+ECONOMIC CLASSIFICATION
+2024
+APPROVED
+BUDGET (K)
+No
+2025
+APPROVED
+BUDGET (K)
+2026 BUDGET
+ESTIMATE (K)
+209,249,900
+261,328,286
+308,215,038
+21
+Personal Emoluments
+224,433,434
+210,854,091
+316,157,270
+22
+ Goods and Services
+(0)
+120,730,998
+56,037,501
+25
+Social Assistance Benefits
+57,043,566
+61,036,615
+67,899,475
+26
+Grants and Other Payments(Transfers)
+179,166,665
+224,105,009
+325,120,006
+31
+Non-Financial Assets
+24,447,242
+26,365,297
+29,276,523
+32
+Financial Assets
+27,311,360
+35,556,360
+49,288,880
+41
+Current Liabilities (Payable within one year)
+Head Total
+721,652,167
+939,976,656
+1,151,994,694
+
+===== PAGE 6 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 6
+9006
+HEAD
+LUSAKA CITY COUNCIL
+allocation of K325.1 million, representing 28 percent, is dedicated to Non-Financial Assets, supporting
+capital projects and municipal infrastructure that strengthen the city’s foundations. Goods and Services
+receive K316.1 million, accounting for 27 percent, providing the operational resources necessary for
+effective programme delivery across all sectors. Personal Emoluments total K308.3 million, making up 27
+percent of the budget, ensuring that salaries, wages, and related personnel costs are met to maintain a
+skilled and motivated workforce. Grants and Other Payments have been set at K67.9 million,
+representing 6 percent, reinforcing partnerships and community empowerment initiatives, while Social
+Assistance Benefits amount to K56.0 million, which is 5 percent, ensuring targeted support for
+vulnerable households and individuals. To maintain fiscal stability, Current Liabilities are budgeted at
+K49.3 million, reflecting 4 percent, while Financial Assets account for K29.3 million, or 3 percent,
+supporting long-term financial sustainability. The 2026 budget is carefully structured to balance
+investment in infrastructure, operational efficiency, human resources, and social protection, fully aligned
+with the Sustainable Development Goals (SDGs), the 8th National Development Plan (8NDP), and
+Lusaka’s Integrated Development Plan (IDP). It demonstrates the Council’s commitment to sustainable,
+inclusive, and accountable governance while responding to both local and national development
+priorities.
+
+===== PAGE 7 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 7
+9006
+HEAD
+LUSAKA CITY COUNCIL
+ Budget Allocation by Programme
+Table:2
+Figure 2:Budget Allocation by Programme
+0.04%
+24.33%
+2.18%
+4.33%
+2.96%
+0.05%
+12.75%
+2.94%
+2.50%
+21.24%
+6.39%
+7.70%
+1.06% 5.75%
+5.23%
+0.55%
+Agricultural Services
+Constituency Development
+District Health servcies
+Economic and business development
+Education and skills development
+Fisheries and Livestock
+Housing and Community Amenities
+Integrated Development Planning
+Local Governance
+Management and support  Services
+Public health and Environmental protection
+Public order and safety
+Recreation Culture and Religion
+Resource Mobilisation and Management
+Social Protection and Community Development
+Transport Services
+2024
+Approved
+Budget(K)
+2025
+Approved
+Budget(K)
+2026
+Budget
+Estimates(K)
+Code
+Programme
+1
+Constituency Development
+252,407,054
+214,449,494
+280,227,850
+2
+Local Governance
+26,920,839
+26,927,202
+28,813,632
+3
+Integrated Development Planning
+17,901,384
+17,492,100
+33,835,152
+4
+Economic and business development
+48,207,472
+45,442,016
+49,870,563
+5
+Public health and Environmental protection
+51,068,144
+45,254,065
+73,580,959
+6
+Housing and Community Amenities
+69,919,172
+74,349,422
+146,923,354
+7
+Recreation Culture and Religion
+7,558,830
+10,224,942
+12,177,781
+8
+Education and skills development
+21,425,235
+22,191,335
+34,141,037
+10
+Public order and safety
+61,319,828
+48,902,368
+88,706,940
+11
+Management and support  Services
+173,904,823
+126,408,400
+244,658,282
+12
+Resource Mobilisation and Management
+52,851,985
+64,173,375
+66,289,638
+13
+District Health servcies
+25,141,072
+25,766,448
+25,141,071
+15
+Transport Services
+3,200,586
+(0)
+6,351,370
+16
+Agricultural Services
+364,887
+-
+430,000
+17
+Fisheries and Livestock
+602,667
+71,000
+602,667
+18
+Social Protection and Community Development
+127,182,679
+-
+60,244,398
+721,652,167
+939,976,656
+1,151,994,694
+Head Total
+
+===== PAGE 8 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 8
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Table  3: Budget Allocation by Programme and Sub-Programme
+Approved
+Approved
+2026 BUDGET
+PROGRAMME/SUB-PROGRAMME
+Expendit
+ure*
+2025 BUDGET
+2024 BUDGET
+Expendit
+ure
+ Estimate
+Constituency Development
+1
+214,449,494
+252,407,054
+280,227,850
+-
+-
+Community Projects
+779
+122,236,211
+153,738,842
+170,465,541
+-
+-
+Women and Youth Empowerment
+780
+40,745,404
+43,597,582
+48,499,625
+-
+-
+CDF Administration
+781
+10,722,475
+11,473,048
+12,763,059
+-
+-
+Secondary School and Skills Development Bursaries
+782
+40,745,404
+43,597,582
+48,499,625
+-
+-
+Local Governance
+2
+26,927,202
+26,920,839
+28,813,632
+-
+-
+	Local elections
+040
+4,326,176
+1,986,503
+1,427,013
+-
+-
+Legislative Function
+044
+2,736,000
+7,055,813
+9,369,451
+-
+-
+Citizen Engagement
+045
+19,865,026
+17,878,523
+18,017,168
+-
+-
+Integrated Development Planning
+3
+17,492,100
+17,901,384
+33,835,152
+-
+-
+Environmental planning
+006
+1,168,079
+966,966
+1,685,065
+-
+-
+Spatial Planning
+021
+11,331,666
+11,600,659
+24,347,099
+-
+-
+Socio Economic planning
+033
+4,992,355
+5,333,759
+7,802,988
+-
+-
+Economic and business development
+4
+45,442,016
+48,207,472
+49,870,563
+-
+-
+Trade Facilitation and Licencing
+010
+9,202,384
+5,144,941
+15,711,572
+-
+-
+Local Economic Development
+011
+36,239,631
+43,062,531
+34,158,991
+-
+-
+Public health and Environmental protection
+5
+45,254,065
+51,068,144
+73,580,959
+-
+-
+Health Inspections
+019
+39,647,777
+47,431,693
+71,134,434
+-
+-
+Pest control
+023
+5,606,288
+3,636,451
+2,446,524
+-
+-
+Housing and Community Amenities
+6
+74,349,422
+69,919,172
+146,923,354
+-
+-
+Parks and Gardens
+007
+3,265,526
+4,463,278
+6,836,512
+-
+-
+Markets and Bus Stations
+012
+8,533,399
+17,004,747
+23,250,835
+-
+-
+Community Centres
+017
+4,448,335
+4,495,174
+50,124,021
+-
+-
+Public Housing
+026
+6,453,319
+1,376,768
+7,501,482
+-
+-
+Roads and Drainages
+029
+27,763,905
+21,344,065
+28,180,117
+-
+-
+Street Lighting
+031
+23,884,938
+21,235,141
+31,030,387
+-
+-
+Recreation Culture and Religion
+7
+10,224,942
+7,558,830
+12,177,781
+-
+-
+Cultural Affairs
+001
+18,000
+1,724
+1,724
+-
+-
+Library Services
+039
+4,530,812
+3,111,576
+3,931,791
+-
+-
+Sports Promotion
+042
+5,676,130
+4,445,530
+8,244,266
+-
+-
+Education and skills development
+8
+22,191,335
+21,425,235
+34,141,037
+-
+-
+District archives
+001
+2,000
+19,241
+19,915
+-
+-
+Early Childhood Education
+005
+19,538,921
+657,645
+23,307,593
+-
+-
+Adult Literacy
+010
+2,650,414
+20,748,349
+10,813,529
+-
+-
+Public order and safety
+10
+48,902,368
+61,319,828
+88,706,940
+-
+-
+Community policing
+018
+19,137,614
+24,942,238
+38,576,307
+-
+-
+Fire protection services
+041
+29,764,755
+36,377,590
+50,130,633
+-
+-
+Management and support  Services
+11
+126,408,400
+173,904,823
+244,658,282
+-
+-
+Human Resource and Administration
+001
+57,897,634
+89,492,014
+109,299,955
+-
+-
+	Executive management
+009
+3,898,002
+5,383,267
+17,727,263
+-
+-
+	Procurement - (1)
+016
+-
+3,845,703
+2,374,886
+-
+-
+ICT
+024
+(0)
+-
+14,552,887
+-
+-
+	Auditing
+028
+-
+2,668,499
+4,695,071
+-
+-
+	Accounting
+035
+48,485,413
+56,368,870
+70,781,720
+-
+-
+Legal Services
+036
+16,127,351
+16,146,471
+25,226,500
+-
+-
+Resource Mobilisation and Management
+12
+64,173,375
+52,851,985
+66,289,638
+-
+-
+Revenue Mobilisation and Enhancement
+067
+64,173,375
+52,851,985
+66,289,638
+-
+-
+
+===== PAGE 9 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 9
+9006
+HEAD
+LUSAKA CITY COUNCIL
+In 2026, Lusaka City Council has strategically allocated resources across its programmes and
+subprogrammes to strengthen service delivery, promote community empowerment, and support
+sustainable development. The Constituency Development Fund CDF receives K280.2 million, with K170.5
+million dedicated to community projects and infrastructure, K48.5 million earmarked for women and
+youth empowerment, K48.5 million for secondary school bursaries and skills development, and K12.8
+million for programme administration. These allocations reflect a strong commitment to participatory
+development across Lusaka’s seven constituencies. The Local Governance Programme is allocated K28.8
+million, supporting legislative functions, citizen engagement, and Ward Development Fund initiatives,
+including K1.4 million for Ward Development Committees, K9.4 million to strengthen legislative
+operations, and K18.0 million to enhance citizen participation in addressing priority community needs
+such as roads, water, and sanitation. The Integrated Development Planning Programme receives K33.8
+million, with K24.3 million directed to spatial planning, K7.8 million to socio-economic planning, and K1.7
+million for environmental planning, ensuring that Lusaka’s growth is coordinated, evidence-based, and
+resilient. In support of economic transformation, the Economic and Business Development Programme
+is allocated K49.9 million, including K15.7 million for trade facilitation and licensing, and K34.2 million for
+Local Economic Development, which encompasses the completion and equipping of three mini civic
+centres to promote entrepreneurship and local business growth. Health and well-being are prioritized
+with the Public Health and Environmental Protection Programme receiving K73.6 million, mainly for
+health inspections K71.1 million and pest control K2.4 million, safeguarding public health standards
+across the city. The Housing and Community Amenities Programme is allocated K146.9 million,
+distributed across roads and drainage K28.2 million, street lighting K31.0 million, parks and gardens K6.8
+million, markets and bus stations K23.3 million, community centres K50.1 million, and public housing
+K7.5 million, reflecting Lusaka’s commitment to quality infrastructure and safe, vibrant
+communities. Cultural and recreational development receives attention through the Recreation, Culture,
+and Religion Programme with K12.2 million, covering sports promotion K8.2 million, library services K3.9
+million, and cultural affairs K1,724, fostering learning, creative expression, and social cohesion.
+Education and skills are advanced through the Education and Skills Development Programme with K34.1
+million, including K23.0 million for early childhood education, K10.8 million for adult literacy, and
+K19,915 for district archives, promoting literacy and lifelong learning. Safety and security remain central
+District Health servcies
+13
+25,766,448
+25,141,072
+25,141,071
+-
+-
+Primary Health Services
+001
+19,172,101
+18,494,420
+18,494,418
+-
+-
+District Health Coordination
+002
+4,064,338
+4,084,338
+4,084,338
+-
+-
+Hospital Services
+003
+2,530,009
+2,562,315
+2,562,315
+-
+-
+Transport Services
+15
+(0)
+3,200,586
+6,351,370
+-
+-
+Road Transport
+001
+(0)
+3,200,586
+6,351,370
+-
+-
+Agricultural Services
+16
+-
+364,887
+430,000
+-
+-
+Agricultural Crop production, Advisory and Technical
+Services
+071
+-
+234,887
+300,000
+-
+-
+Agribusiness Development and Marketing
+072
+-
+30,000
+30,000
+-
+-
+Agriculture Co-ordination
+073
+-
+100,000
+100,000
+-
+-
+Fisheries and Livestock
+17
+71,000
+602,667
+602,667
+-
+-
+Fisheries and Livestock Marketing
+074
+-
+61,133
+61,133
+-
+-
+Animal Health Services
+075
+71,000
+68,402
+68,402
+-
+-
+Fisheries Production and Productivity Improvement
+076
+-
+79,082
+79,082
+-
+-
+Livestock Production and Productivity Improvement
+077
+-
+80,910
+80,910
+-
+-
+District Fisheries and Livestock Coordination
+078
+-
+313,139
+313,139
+-
+-
+Social Protection and Community Development
+18
+-
+127,182,679
+60,244,398
+-
+-
+District Social welfare
+079
+-
+127,182,679
+60,237,501
+-
+-
+Community Development
+080
+(0)
+(0)
+6,897
+(0)
+(0)
+1,151,994,694
+Head Total
+939,976,656
+721,652,167
+-
+-
+(1)
+3,653,691
+GRZ
+Loan
+
+===== PAGE 10 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 10
+9006
+HEAD
+LUSAKA CITY COUNCIL
+to city operations, with the Public Order and Safety Programme receiving K88.7 million, split between
+community policing K38.6 million and fire protection services K50.1 million, ensuring public safety and
+emergency readiness. The Management and Support Services Programme is allocated K244.7 million,
+covering human resources and administration K109.3 million, executive management K17.7 million,
+procurement K2.4 million, ICT K14.6 million, auditing K4.7 million, accounting K70.8 million, and legal
+services K25.2 million, ensuring efficient governance, financial accountability, and operational
+support. To strengthen revenue generation and resource management, the Resource Mobilisation and
+Management Programme is allocated K66.3 million for revenue mobilisation and enhancement,
+supporting Lusaka’s long-term financial sustainability. Health services are reinforced with the District
+Health Services Programme receiving K25.1 million, including K18.5 million for primary health services,
+K4.1 million for district health coordination, and K2.6 million for hospital services. Transport Services
+receives K6.35 million for road transport improvement, while agriculture receives targeted support
+through the Agricultural Services Programme with K430,000, distributed across crop production and
+advisory services K300,000, agribusiness development and marketing K30,000, and agricultural
+coordination K100,000. Livestock and fisheries development are promoted under the Fisheries and
+Livestock Programme with K602,667, allocated to fisheries and livestock marketing K61,133, animal
+health services K68,402, fisheries productivity improvement K79,082, livestock productivity
+improvement K80,910, and district coordination K313,139, strengthening food security and agribusiness
+value chains. Finally, social protection receives significant attention through the Social Protection and
+Community Development Programme with K60.2 million, supporting cash-for-work programmes, district
+social welfare K60.2 million, and community development initiatives K6,897, providing targeted
+assistance to vulnerable populations. Overall, the 2026 budget demonstrates Lusaka City Council’s
+dedication to inclusive development, fiscal responsibility, and alignment with the Sustainable
+Development Goals SDGs, the 8th National Development Plan 8NDP, and Lusaka’s Integrated
+Development Plan IDP, balancing investments in infrastructure, social services, governance, and
+community empowerment to drive sustainable growth across the city.
+
+===== PAGE 11 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 11
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+1
+Constituency Development
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To facilitate equitable development, reduce poverty and support job creation and provide for vulnerable learners to access
+Secondary Boarding Schools and Technical Education, Vocational and Entrepreneurship Training Institutions.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+20,038,003
+-
+-
+18,012,685
+10,722,475
+Use of Goods and Services
+02
+20,038,003
+-
+02General Operations
+10,722,475
+18,012,685
+-
+67,899,475
+-
+-
+61,036,615
+57,043,566
+Transfers
+03
+67,899,475
+-
+01Transfers
+57,043,566
+61,036,615
+-
+192,290,372
+-
+-
+173,357,754
+146,683,453
+Assets
+04
+163,190,597
+-
+01Non-Financial Assets (Capital Expenditure)
+122,236,211
+147,199,205
+-
+29,099,775
+-
+02Financial Assets
+24,447,242
+26,158,549
+-
+Programme Total
+280,227,850
+252,407,054
+-
+-
+214,449,494
+In 2026, the Constituency Development Programme is allocated K280.23 million, structured across key
+economic classifications to support inclusive development. Under Use of Goods and Services, K20.04
+million is allocated for general operations to facilitate programme delivery. Transfers receive K67.90
+million to support bursaries, grants, and empowerment initiatives targeting vulnerable groups. A total of
+K163.19 million is allocated under Non-Financial Assets for capital investments in infrastructure, while
+Financial Assets receive K29.10 million to strengthen local economic participation. This allocation reflects
+Lusaka City Council’s commitment to equitable service provision, poverty reduction, and expanded
+access to education and livelihoods.
+
+===== PAGE 12 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 12
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Constituency Development
+0001
+Programme
+:
+1 Constituency Development
+280,227,850
+252,407,054
+214,449,494
+170,465,541
+153,738,842
+122,236,211
+-
+779 Community Projects
+-
+48,499,625
+43,597,582
+40,745,404
+-
+780 Women and Youth Empowerment
+-
+12,763,059
+11,473,048
+10,722,475
+-
+781 CDF Administration
+-
+48,499,625
+43,597,582
+40,745,404
+-
+782 Secondary School and Skills Development
+Bursaries
+-
+-
+280,227,850
+Programme Total
+214,449,494
+252,407,054
+-
+280,227,850
+In 2026, the Lusaka City Council has allocated a total of K280.2 million to the Constituency Development
+Programme (CDF) across seven constituencies. Of this, K170.5 million is directed towards community
+projects, supporting infrastructure, local services, and grassroots development. An additional K48.5
+million is earmarked for women and youth empowerment initiatives, which include both grants and
+loans designed to stimulate entrepreneurship, enhance livelihoods, and promote inclusive economic
+participation. The CDF administration will receive K12.8 million to manage and oversee programme
+implementation, ensuring transparency and efficiency. A further K48.5 million is allocated for secondary
+school bursaries and skills development, expanding access to education and vocational training for
+underserved populations. This allocation reflects the council’s commitment to community
+empowerment, education advancement, and equitable development at constituency level.
+
+===== PAGE 13 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 13
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+1Constituency Development
+Programme:
+Key Output and Output Indicator
+Road & Drainage Infrastructure Improved
+01 Kilometres of township roads paved
+-
+-
+-
+-
+15
+02 Kilometres of drainage systems constructed
+-
+-
+-
+-
+2
+Education Infrastructure Improved
+01 Number of classroom blocks constructed
+-
+-
+-
+-
+6
+02 Number of School ablution blocks constructed
+-
+-
+-
+-
+4
+Health Infrastructure Developed
+01 Number of Out-Patient Departments constructed
+-
+-
+-
+-
+1
+02 Number of maternity wings / annexes constructed
+-
+-
+-
+-
+2
+03 Number of hospital shelters constructed
+-
+-
+-
+-
+1
+Security Infrastructure Improved
+01 Number of police posts constructed
+-
+-
+-
+-
+4
+02 Number of police stations constructed
+-
+-
+-
+-
+1
+Water Infrastructure Improved
+01 Number of boreholes drilled
+-
+-
+-
+-
+9
+02 Number of water reticulation systems installed
+-
+-
+-
+-
+1
+Public Lighting and Energy Access Improved
+01 Number of solar streetlights installed
+-
+-
+-
+-
+100
+02 Number of facilities powered by solar systems
+-
+-
+-
+-
+5
+Empowerment Loans and Grants  Disbursed
+01 Number of  grants disbursed
+-
+-
+696
+-
+700
+02 Number of loans disbursed
+-
+-
+378
+-
+381
+CDF Programme Governance and Oversight Strengthened
+01 Number of CDF projects monitored
+-
+-
+-
+-
+97
+Secondary School and Skills Development Bursaries Disbursed
+01 Number of skills development busaries scholarships awarded
+-
+-
+4,959
+-
+5,000
+02 Number of secondary schools bursaries scholarship awarded
+-
+-
+529
+-
+600
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+
+===== PAGE 14 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 14
+9006
+HEAD
+LUSAKA CITY COUNCIL
+In 2026, Lusaka City Council will implement the Constituency Development Programme (CDF) with a focus
+on inclusive service delivery, infrastructure development, and community empowerment across all seven
+constituencies. Under infrastructure development, the programme will prioritise the construction and paving
+of over 15 kilometres of township roads to improve access to health facilities, schools, and markets. Major
+road works will be undertaken in Chawama Constituency, including Anglican Road in Chawama Ward 2 and
+Ngwenya Road in Nkholoma Ward 1, among others. In Kabwata Constituency, paving will focus on key
+township roads in Libala, Kamwala, Kamulanga, and Kabwata Wards, while Kanyama Constituency will see
+significant investments in access roads serving John Laing Clinic, Kanyama West Clinic, and surrounding
+communities in Chinika, Makeni Villa, and Garden Park Wards. Selected township roads will also be
+improved in Mandevu and Lusaka Central, including market access roads in Silwizya Ward. Complementing
+road works, drainage infrastructure will be constructed in flood-prone areas of John Howard Ward
+(Chawama) and Mulungushi Ward (Mandevu) to enhance climate resilience and protect road
+investments. Social infrastructure investments will include the construction of classroom blocks at Bayuni
+School in Munkolo Ward (Kanyama) and Muchinga School in Mwembeshi Ward (Matero), the construction
+of an Out-Patient Department at Kuku Health Post in Nkholoma Ward (Chawama), and maternity wings in
+Ngwerere (Mandevu) and Kamwala (Kabwata). Community safety will be strengthened through the
+construction of police posts in Silwizya (Lusaka Central) and Kapwepwe (Matero), and a new police station in
+Muchinga (Matero). Through rehabilitation works, the programme will upgrade selected township roads in
+Chinika and Makeni Villa Wards, rehabilitate schools, clinics, and police posts in Independence and John
+Howard Wards, and improve sports and recreation facilities in Lubwa, Lima, and Matero, among others. To
+enhance service delivery capacity, the programme will finance the procurement of four Tractor Loader
+Backhoes (TLBs), the distribution of over 2,100 school desks, the equipping of clinics with medical and
+maternity equipment, and the installation of solar streetlights and water supply systems in priority wards,
+including Munkolo, Kabwata, Roma, and Kabanana, among others. In parallel, the programme will provide
+funding support to 800 loan beneficiaries, 600 grant recipients, and 800 women and youth cooperatives. To
+strengthen governance and accountability, 76 community communication campaigns will be conducted, 119
+CDFC members trained, and 38 Ward Development Committees supported, with all  projects monitored in
+line with national CDF guidelines. Additionally, 7,000 skills development bursaries and 1,500 secondary
+school bursaries will be awarded to expand access to education and economic opportunity across Lusaka.
+
+===== PAGE 15 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 15
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+2
+Local Governance
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+	To facilitate community participation in decision making and sustainable local development.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+5,266,156
+-
+-
+4,974,473
+4,047,447
+Personal Emoluments
+01
+1,873,018
+-
+01Salaries and Wages
+1,017,747
+1,699,003
+-
+3,393,138
+-
+03Personnel Related Costs
+3,029,701
+3,275,470
+-
+22,447,379
+-
+-
+21,718,866
+21,999,456
+Use of Goods and Services
+02
+22,447,379
+-
+02General Operations
+21,999,456
+21,718,866
+-
+1,100,097
+-
+-
+227,500
+880,299
+Assets
+04
+1,100,097
+-
+01Non-Financial Assets (Capital Expenditure)
+880,299
+227,500
+-
+Programme Total
+28,813,632
+26,920,839
+-
+-
+26,927,202
+The budget for the Local Governance Programme has a total allocation of K28.8 million which has been
+allocated across three key areas. K5.2 million is dedicated to Personal Emoluments, which covers the
+salaries and wages of the council’s employees. K22.4 million is allocated for the Use of Goods and
+Services, with K16.2 million specifically allocated for the disbursement of ward development funds to
+support projects in different wards, and K1.8 million designated for the operations of ward development
+committees. K1.1 million is allocated for Assets.
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Local Governance
+0002
+Programme
+:
+2 Local Governance
+28,813,632
+26,920,839
+26,927,202
+1,427,013
+1,986,503
+4,326,176
+-
+040 	Local elections
+-
+9,369,451
+7,055,813
+2,736,000
+-
+044 Legislative Function
+-
+18,017,168
+17,878,523
+19,865,026
+-
+045 Citizen Engagement
+-
+-
+28,813,632
+Programme Total
+26,927,202
+26,920,839
+-
+28,813,632
+Lusaka City Council has allocated K28.8 million to the Local Governance Programme in 2026, focusing on
+local elections, legislative functions, and citizen engagement. A provision of K1.4 million supports the
+smooth operation of Ward Development Committees, while K9.4 million strengthens the Council’s
+legislative capacity through law-making, transparent meetings, and training for councilors and staff. The
+largest share K18.0 million is dedicated to citizen engagement, which fully comprises Ward Development
+Fund projects. These projects address priority needs across Lusaka’s wards, including roads, water
+supply, sanitation, and other essential services, while promoting inclusive participation, transparency,
+and community-led development.
+
+===== PAGE 16 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 16
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+2Local Governance
+Programme:
+Key Output and Output Indicator
+Ward Development Committee  Operationalised
+01 Number of ward development committee operationalised
+38
+38
+38
+38
+38
+02 Number of Ward Development Committees trained
+38
+38
+-
+38
+38
+Ward Development Committee Elections Conducted
+01 Number of Ward Development Committee elections conducted
+-
+-
+-
+-
+38
+Policies Formulated and Coordinated
+01 Number of policies formulated
+5
+-
+2
+5
+2
+Legislative Oversight Strengthened
+01 Percentage of council resolutions implementated
+-
+-
+100
+-
+100
+Council Resolutions Implemented
+01 Number of full council meetings held
+4
+4
+4
+4
+4
+02 Number of Special Full Council meetings held
+2
+2
+2
+2
+2
+By-laws Reviewed & Updated
+01 Number of by-laws reviewed & updated
+-
+-
+-
+-
+2
+Ward Development Fund Projects Implemented
+01 Number of ward development fund projects completed
+-
+-
+38
+-
+38
+Civic Education Campaigns Implemented
+01 Number of campaigns conducted
+-
+-
+-
+-
+38
+02 Number of Local Market Advisory Committee meetings held
+4
+4
+38
+4
+38
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will implement the Local Governance Programme with a focus on strengthening
+ward-level structures, legislative oversight, and civic engagement. All 38 Ward Development Committees will
+be operationalised and trained, with elections conducted to ensure full representation. Two policies will be
+formulated, and 100% of council resolutions will be implemented, supported by four full council meetings
+and two special sessions. The Council will review and update two by-laws to enhance local governance.
+Additionally, 38 Ward Development Fund projects will be completed, alongside 38 civic education campaigns
+and 38 Local Market Advisory Committee meetings, reinforcing transparency, participation, and service
+delivery at community level.
+
+===== PAGE 17 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 17
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+3
+Integrated Development Planning
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To guide spatial, social-economic, and environmental planning in the district.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+12,092,940
+-
+-
+10,709,455
+8,589,391
+Personal Emoluments
+01
+8,980,474
+-
+01Salaries and Wages
+6,208,614
+7,928,999
+-
+3,112,466
+-
+03Personnel Related Costs
+2,380,778
+2,780,456
+-
+5,588,699
+-
+-
+2,980,878
+5,560,683
+Use of Goods and Services
+02
+5,588,699
+-
+02General Operations
+5,560,683
+2,980,878
+-
+16,153,513
+-
+-
+4,211,051
+3,413,743
+Assets
+04
+16,153,513
+-
+01Non-Financial Assets (Capital Expenditure)
+3,413,743
+4,211,051
+-
+Programme Total
+33,835,152
+17,901,384
+-
+-
+17,563,818
+In 2026, the Integrated Development Planning Programme is allocated K33.8 million to support spatial,
+socio-economic, and environmental planning across Lusaka District. Under Personal Emoluments, K12.10
+million will cover salaries and personnel-related costs to sustain technical planning capacity. Use of
+Goods and Services receives K5.58 million for general operations, including environmental and
+socioeconomic planning activities. Additionally, K16.2 million is allocated under Non-Financial Assets for
+capital expenditure to enhance planning infrastructure. This allocation underscores Lusaka City Council’s
+commitment to structured urban growth and inclusive development.
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Integrated Development Planning
+0003
+Programme
+:
+3 Integrated Development Planning
+33,835,152
+17,901,384
+17,563,818
+1,685,065
+966,966
+1,172,344
+-
+006 Environmental planning
+-
+24,347,099
+11,600,659
+11,363,609
+-
+021 Spatial Planning
+-
+7,802,988
+5,333,759
+5,027,864
+-
+033 Socio Economic planning
+-
+-
+33,835,152
+Programme Total
+17,563,818
+17,901,384
+-
+33,835,152
+To support Lusaka’s orderly and inclusive growth, the City Council has allocated K33.8 million to the
+Integrated Development Planning Programme in 2026. The largest share—K24.3 million—is dedicated to
+spatial planning, guiding land use, infrastructure development, and urban zoning to address challenges
+such as congestion and unplanned settlements. Environmental planning receives K1.7 million, focusing
+on the protection and enhancement of green spaces and ecological sustainability. Meanwhile, K7.8
+million is allocated to socio-economic planning, targeting improvements in healthcare, education,
+poverty reduction, and job creation. This programme ensures Lusaka’s development remains balanced,
+forward-looking, and responsive to both environmental and human needs.
+
+===== PAGE 18 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 18
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+3Integrated Development Planning
+Programme:
+Key Output and Output Indicator
+Development Control on Both Permenent and Temporal Structures Conducted
+01 Number of processed building plans approved
+-
+-
+1,440
+-
+1,440
+02 Number of illegal structures demolished
+-
+-
+55
+-
+25
+Outdoor Advertisement and Planning Permissions Processed
+01 Number of processed billbosrd Applications Processed
+-
+-
+120
+-
+60
+Land Survey and Mappings Conducted
+01 Number of land boundary disputes appllication processed
+-
+-
+160
+-
+100
+02 Number of beacon identifications conducted
+-
+-
+100
+-
+100
+03 Number of maps and survey diagrams prepared
+-
+-
+194
+-
+100
+Local Area Plans Formulated
+01 Number of Local Area Plans Formulated
+-
+-
+5
+-
+1
+Citizen Sensitisation on IDP Conducted
+01 Number of Community Sensitisation Events Conducted
+-
+-
+-
+-
+76
+Stakeholder Engagement Conducted
+01 Number of Stakeholder Meetings Held
+-
+-
+-
+-
+16
+Community AIDS Task Forces (CATFs) Formed
+01 Number of CATFs Formed
+-
+-
+38
+-
+38
+Tree Planting Conducted
+01 Number of trees planted
+100
+100
+3,000
+100
+5,000
+Environmental Policy Formulated
+01 Number of environmental policy formulated
+-
+-
+1
+-
+1
+Environmental Compliance Audits Conducted
+01 Number of industries inspected
+-
+-
+576
+-
+576
+Environmental Awareness Conducted
+01 Number of Awareness Campaigns Conducted
+-
+-
+-
+-
+48
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will implement the Integrated Development Planning Programme with a focus
+on strengthening urban development control, land management, environmental sustainability, and inclusive
+spatial planning. Development control services will process and approve 1,440 building plans for both
+permanent and temporary structures, while enforcement actions will result in the demolition of 25 illegal
+structures. Outdoor advertising regulation will be supported through the processing of 60 billboard
+applications, ensuring orderly urban aesthetics and compliance with planning standards. Land survey and
+mapping services will address land administration challenges through the processing of 100 land boundary
+dispute applications, 100 beacon identifications, and the preparation of 100 maps and survey diagrams to
+support accurate spatial planning. To guide structured urban growth, one Local Area Plan will be formulated,
+complemented by 76 community sensitisation events on the Integrated Development Plan (IDP) and 16
+stakeholder engagement meetings to promote participatory planning. Environmental governance will be
+strengthened through the formation of 38 Community AIDS Task Forces (CATFs), the planting of 5,000 trees
+to enhance urban greening, and the formulation of one Environmental Policy. Compliance monitoring will
+include 576 industrial inspections, alongside 48 environmental awareness campaigns aimed at promoting
+responsible environmental practices. Collectively, these interventions will support sustainable urban
+development, environmental protection, and inclusive stakeholder participation across the city.
+
+===== PAGE 19 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 19
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+4
+Economic and business development
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+	To provide an enabling business environment that will attract investors from both within and outside the district.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+8,379,564
+-
+-
+7,873,238
+4,225,646
+Personal Emoluments
+01
+6,264,223
+-
+01Salaries and Wages
+3,448,665
+6,368,439
+-
+2,115,341
+-
+03Personnel Related Costs
+776,981
+1,504,799
+-
+34,356,029
+-
+-
+29,450,897
+30,767,099
+Use of Goods and Services
+02
+34,356,029
+-
+02General Operations
+30,767,099
+29,450,897
+-
+7,134,970
+-
+-
+10,883,337
+10,449,270
+Assets
+04
+7,134,970
+-
+01Non-Financial Assets (Capital Expenditure)
+10,449,270
+10,883,337
+-
+Programme Total
+49,870,563
+48,207,472
+-
+-
+45,442,016
+In 2026, the Economic and Business Development Programme is allocated K49.87 million to foster a
+conducive environment for investment and local enterprise growth. Under Personal Emoluments, K8.38
+million will support salaries and personnel-related costs to strengthen institutional capacity. Use of
+Goods and Services is allocated K34.36 million for operational activities that facilitate trade, licensing,
+and business support services. Additionally, K7.13 million is provided under Non-Financial Assets for
+capital investments aimed at enhancing infrastructure and service delivery. This allocation underscores
+Lusaka City Council’s commitment to stimulating economic activity and attracting investment within the
+district.
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Economic and business development
+0004
+Programme
+:
+4 Economic and business development
+49,870,563
+48,207,472
+45,442,016
+15,711,572
+5,144,941
+9,202,384
+-
+010 Trade Facilitation and Licencing
+-
+34,158,991
+43,062,531
+36,239,631
+-
+011 Local Economic Development
+-
+-
+49,870,563
+Programme Total
+45,442,016
+48,207,472
+-
+49,870,563
+Lusaka City Council has allocated K49.9 million to the Economic and Business Development Programme
+in 2026, focusing on stimulating local economic growth and improving the business environment. Of this,
+K15.71 million is directed to trade facilitation and licensing, streamlining business processes and making
+it easier for enterprises to operate and comply with regulations. The remaining K34.16 million supports
+Local Economic Development, including a flagship initiative to complete and equip three mini civic
+centers. These centers will improve access to government services, promote local entrepreneurship, and
+foster a more vibrant and inclusive economy across Lusaka.
+
+===== PAGE 20 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 20
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+4Economic and business development
+Programme:
+Key Output and Output Indicator
+Business Registration and Compliance Enhanced
+01 Number of sensitization meetings conducted
+7
+7
+7
+7
+7
+Investment Promotion Strengthened
+01 Number of investment promotion exhibitions held
+2
+2
+2
+2
+2
+02 Percentage of investment inquiries facilitated
+-
+-
+-
+-
+100
+03 Number of investment feasibility studies conducted
+1
+-
+1
+1
+1
+District Investment Feasibility Studies Conducted
+01 Number of district investment feasibility studies conducted
+1
+-
+1
+1
+1
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will implement the Economic and Business Development Programme with a
+focus on promoting local investment and strengthening business compliance. Seven sensitization meetings
+will be conducted to enhance awareness of registration requirements, while two investment exhibitions will
+be held to attract new opportunities. All investment inquiries will be facilitated at 100%, and one districtlevel
+feasibility study will be conducted to assess viable ventures. These outputs aim to boost entrepreneurship,
+improve the business environment, and support inclusive economic growth across Lusaka.
+
+===== PAGE 21 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 21
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+5
+Public health and Environmental protection
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+	To promote public health and sustainable management of the environment in the district.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+22,383,728
+-
+-
+19,681,750
+17,828,057
+Personal Emoluments
+01
+17,128,902
+-
+01Salaries and Wages
+14,420,795
+15,628,457
+-
+5,254,825
+-
+03Personnel Related Costs
+3,407,262
+4,053,292
+-
+13,948,682
+-
+-
+13,522,551
+23,860,381
+Use of Goods and Services
+02
+13,948,682
+-
+02General Operations
+23,860,381
+13,522,551
+-
+37,248,549
+-
+-
+17,863,843
+3,673,534
+Assets
+04
+37,248,549
+-
+01Non-Financial Assets (Capital Expenditure)
+3,673,534
+17,863,843
+-
+Programme Total
+73,580,959
+51,068,144
+-
+-
+45,361,973
+In 2026, Lusaka City Council will implement the Public Health and Environmental Protection Programme
+with a total budget allocation of K73.6 million to support the promotion of public health and the
+sustainable management of the environment in the district. Of this amount, K22.4 million will be
+allocated to Personal Emoluments to support staffing and human resource requirements necessary for
+the delivery of public health services. This includes K17.1 million for Salaries and Wages and K5.3 million
+for Personnel Related Costs, ensuring that the Council maintains an adequate and motivated workforce
+to effectively implement environmental health programmes. A further K13.9 million will be directed
+towards Use of Goods and Services, specifically under General Operations, to facilitate routine public
+health activities such as sanitation operations, inspections, environmental monitoring, and other
+operational interventions required to maintain public health standards across the city. Additionally, K37.2
+million will be allocated to Assets, under Non-Financial Assets (Capital Expenditure), to support
+investment in infrastructure, equipment, and other capital requirements aimed at strengthening public
+health systems and environmental protection services. Through this allocation, Lusaka City Council will
+enhance its operational capacity, strengthen environmental health management systems, and improve
+service delivery in sanitation, disease prevention, and environmental protection across the district.
+
+===== PAGE 22 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 22
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Public health and Environmental protection
+0005
+Programme
+:
+5 Public health and Environmental protection
+73,580,959
+51,068,144
+45,361,973
+71,134,434
+47,431,693
+39,747,840
+-
+019 Health Inspections
+-
+2,446,524
+3,636,451
+5,614,133
+-
+023 Pest control
+-
+-
+73,580,959
+Programme Total
+45,361,973
+51,068,144
+-
+73,580,959
+In 2026, Lusaka City Council will implement Public Health and Environmental Protection with a total
+allocation of K73.6 million to strengthen sanitation management, public health regulation, and
+environmental protection across the district. The programme supports efforts to safeguard community
+health through inspections, pest control, and other environmental health interventions. The largest share
+of the allocation, K71.1 million, will be directed towards the Health Inspections Subprogramme, which
+focuses on enforcing public health regulations, conducting inspections of premises and food
+establishments, monitoring sanitation standards, and ensuring compliance with environmental health
+requirements across the city. In addition, K2.4 million will be allocated to the Pest Control
+Subprogramme to support interventions aimed at reducing environmental health risks associated with
+disease vectors and stray animals. This will include activities such as mosquito hotspot management, dog
+registration and tagging, and pest baiting or spraying to prevent the spread of vector-borne
+diseases. Through these allocations, Lusaka City Council will strengthen preventive public health systems,
+enhance regulatory enforcement, and promote a healthier and safer environment for residents across
+the city.
+
+===== PAGE 23 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 23
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+5Public health and Environmental protection
+Programme:
+Key Output and Output Indicator
+Public Health and Sanitation Operations Conducted
+01 Number of keep lusaka clean operations conducted
+456
+456
+456
+456
+364
+02 Number  of Health permits issued
+100
+100
+13,000
+100
+13,000
+03 Number of public health inspections undertaken
+4,800
+4,800
+7,280
+4,800
+15,000
+Safe Burial and Death Management Services Provided
+01 Percentage of unclaimed bodies buried
+100
+100
+100
+100
+100
+02 Number  of burial services conducted
+-
+-
+17,717
+-
+17,717
+03 Number of deaths registered
+-
+-
+3,498
+-
+3,498
+Food and Water Safety Assured
+01 Percentage of water samples tested
+-
+-
+100
+-
+100
+02 Percentage of food samples tested
+-
+-
+-
+-
+100
+03 Percentage of carcasses inspected
+-
+-
+100
+-
+100
+Pest and Animal Control Services Provided
+01 Number of mosquito hot spots larvicided
+5
+5
+7
+5
+7
+02 Number of dogs registered
+100
+100
+100
+100
+100
+03 Number  of dogs tagged
+100
+100
+100
+100
+100
+04 Number of premises baited/sprayed
+-
+-
+500
+-
+265
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will implement the Public Health and Environmental Protection Programme with
+a strong emphasis on sanitation management, disease prevention, food and water safety, and dignified
+burial services. A total of three hundred and sixty-four Keep Lusaka Clean operations will be conducted to
+strengthen citywide sanitation and environmental hygiene. Public health regulation will be reinforced
+through the issuance of thirteen thousand health permits and the undertaking of fifteen thousand public
+health inspections, ensuring that businesses and public premises comply with health and safety
+standards. Under safe burial and death management services, the Council will maintain one hundred percent
+burial of unclaimed bodies, while seventeen thousand seven hundred and seventeen burial services will be
+conducted and three thousand four hundred and ninety-eight deaths registered, ensuring dignified burial
+services and proper civil registration systems. To safeguard food and water safety, the Council will ensure
+that one hundred percent of water samples, food samples, and carcasses are tested and inspected,
+strengthening public health surveillance and preventing the spread of food- and water-borne diseases across
+the city. Efforts under pest and animal control will include larviciding seven mosquito hotspots to reduce
+vector-borne diseases, while one hundred percent of dogs will be registered and tagged to improve animal
+control and public safety. In addition, two hundred and sixty-five premises will be baited or sprayed to
+manage pests and reduce environmental health risks. Through these interventions, Lusaka City Council will
+continue to strengthen environmental sanitation systems, enhance disease prevention measures, and
+protect public health, contributing to a cleaner, safer, and healthier city for all residents.
+
+===== PAGE 24 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 24
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+6
+Housing and Community Amenities
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To promote sustainable infrastructure development and community amenities
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+30,138,995
+-
+-
+23,672,891
+26,505,022
+Personal Emoluments
+01
+24,844,627
+-
+01Salaries and Wages
+23,313,683
+20,319,853
+-
+5,294,369
+-
+03Personnel Related Costs
+3,191,339
+3,353,038
+-
+82,349,218
+-
+-
+36,190,788
+33,299,386
+Use of Goods and Services
+02
+82,349,218
+-
+02General Operations
+33,299,386
+36,190,788
+-
+34,435,140
+-
+-
+10,055,493
+14,575,283
+Assets
+04
+34,435,140
+-
+01Non-Financial Assets (Capital Expenditure)
+14,575,283
+10,055,493
+-
+Programme Total
+146,923,354
+69,919,172
+-
+-
+74,379,691
+In 2026, Lusaka City Council will implement the Housing and Community Amenities Programme with a
+total budget allocation of K146.9 million to support sustainable infrastructure development and improve
+access to community amenities across the district. This programme will strengthen the city’s capacity to
+deliver essential infrastructure, maintain public facilities, and enhance the quality of life for residents. Of
+the total allocation, K30.1 million will be directed towards Personal Emoluments to support the
+workforce responsible for planning, developing, and maintaining municipal infrastructure. This includes
+K24.8 million for Salaries and Wages and K5.3 million for Personnel Related Costs, ensuring that the
+Council maintains adequate technical and operational staff to implement infrastructure and community
+development initiatives. A further K82.3 million will be allocated to Use of Goods and Services, under
+General Operations, to support the operational activities required for infrastructure development and
+maintenance. These resources will facilitate works such as routine maintenance of public infrastructure,
+provision of community services, and operational support for infrastructure-related projects across the
+city. Additionally, K34.4 million will be invested in Assets, under Non-Financial Assets (Capital
+Expenditure), to finance the development and upgrading of municipal infrastructure and community
+amenities. This investment will support the acquisition and construction of infrastructure assets
+necessary to improve service delivery and promote sustainable urban development. Through this
+allocation, Lusaka City Council will strengthen infrastructure systems, expand access to community
+amenities, and support sustainable urban development to meet the growing needs of the city.
+
+===== PAGE 25 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 25
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Housing and Community Amenities
+0006
+Programme
+:
+6 Housing and Community Amenities
+146,923,354
+69,919,172
+74,379,691
+6,836,512
+4,463,278
+3,265,526
+-
+007 Parks and Gardens
+-
+23,250,835
+17,004,747
+8,537,961
+-
+012 Markets and Bus Stations
+-
+50,124,021
+4,495,174
+4,452,058
+-
+017 Community Centres
+-
+7,501,482
+1,376,768
+6,475,303
+-
+026 Public Housing
+-
+28,180,117
+21,344,065
+27,763,905
+-
+029 Roads and Drainages
+-
+31,030,387
+21,235,141
+23,884,938
+-
+031 Street Lighting
+-
+-
+146,923,354
+Programme Total
+74,379,691
+69,919,172
+-
+146,923,354
+
+===== PAGE 26 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 26
+9006
+HEAD
+LUSAKA CITY COUNCIL
+In 2026, Lusaka City Council will implement the Housing and Community Amenities programme to
+support the development, maintenance, and management of municipal infrastructure and community
+facilities across the district. The programme outputs outline the key service delivery targets to be
+achieved during the year. Under Urban Green Spaces Developed and Maintained, the Council will focus
+on enhancing public recreational spaces and maintaining the urban environment. In 2026, the Council
+targets the development of one play park and will conduct 168 tree trimming and debris removal
+exercises to improve environmental cleanliness, safety, and the overall appearance of public
+spaces. Through Market Services and Sanitation Improved, Lusaka City Council will strengthen the
+management of trading facilities and promote improved sanitation standards in markets. In 2026, the
+Council targets the registration of 695 market stands and 215 market shops, while 7,000 occupancy
+permits will be renewed to regulate trading activities and ensure compliance with municipal
+requirements. In addition, four food systems training sessions will be conducted to promote food safety
+and improve market management practices. Under Local Authority Infrastructure Constructed, the
+Council will invest in the rehabilitation and development of key community infrastructure. In 2026, the
+Council targets the rehabilitation of eight community halls, two community schools, and two pre-
+schools, as well as the construction of two classroom blocks and two school ablution blocks to improve
+learning environments. In addition, three mini civic centres will be completed to enhance access to local
+government services within communities. Through initiatives aimed at Strengthening Security of Tenure,
+the Council will continue improving property identification and land administration systems. In 2026, the
+Council targets the numbering of 7,000 properties and the registration of 5,500 households to
+strengthen the municipal property database. In addition, 70 occupancy licence documents will be
+processed, while eight community sensitization programmes will be conducted to increase public
+awareness on land tenure processes and property registration. Under Road Infrastructure Developed and
+Maintained, the Council will continue improving road networks and drainage infrastructure to enhance
+mobility and stormwater management. In 2026, the Council targets the marking of 50 kilometres of
+roads, the construction of 10 kilometres of drainage, and the maintenance of 10 kilometres of drainage
+infrastructure. Additionally, 30 kilometres of township roads will be rehabilitated, while 20 kilometres of
+potholes will be patched to improve road conditions and accessibility. Through Road Safety and Traffic
+Management Improved, Lusaka City Council will implement measures aimed at enhancing road user
+safety and improving traffic control. In 2026, the Council targets the installation of 30 speed humps and
+60 road signs in strategic locations to reduce accidents and improve traffic regulation. Under Non-
+Motorized Transport Infrastructure Development and Maintenance Enhanced, the Council will promote
+safer and more inclusive mobility options for pedestrians and cyclists. In 2026, the Council targets the
+construction of one kilometre of pedestrian walkways, the maintenance of one kilometre of pedestrian
+walkways, and the construction of two kilometres of cycle lanes to support sustainable urban
+transport. Lastly, under Street Lighting and Traffic Control Systems Improved, the Council will enhance
+public safety and road visibility, particularly during night-time. In 2026, the Council targets the erection
+of 100 street lighting poles and the maintenance of five traffic light junctions to improve road safety and
+support efficient traffic management. Through these outputs, Lusaka City Council will continue
+strengthening municipal infrastructure systems and improving access to essential community amenities
+and services across the district
+
+===== PAGE 27 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 27
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+6Housing and Community Amenities
+Programme:
+Key Output and Output Indicator
+Urban Green Spaces Developed & Maintained
+01 Number of play parks developed
+-
+-
+-
+-
+1
+02 Number of tree trimming and debris removal exercises conducted
+-
+-
+-
+-
+168
+Market Services & Sanitation Improved
+01 Number of market stands  registered
+-
+-
+-
+-
+695
+02 Number of market shops  registered
+-
+-
+-
+-
+215
+03 Number  of occupancy permits renewed
+-
+-
+-
+-
+7,000
+04 Number of food systems trainings conducted
+-
+-
+-
+-
+4
+Local Authority Infrastructure Constructed
+01 Number of Community Halls rehabilitated
+-
+-
+9
+-
+8
+02 Number of Community Schools rehabilitated
+-
+-
+5
+-
+2
+03 Number of Pre - School rehabilitated
+-
+-
+5
+-
+2
+04 Number of Classroom Blocks constructed
+-
+-
+-
+-
+2
+05 Number of School Ablution Blocks constructed
+-
+-
+-
+-
+2
+06 Number of Mini Civic Centres Completed
+-
+-
+3
+-
+3
+Security of Tenure Strengthened
+01 Number of properties numbered
+-
+-
+6,000
+-
+7,000
+02 Number of households registered
+-
+-
+5,000
+-
+5,500
+03 Number of Occupancy licence documents processed
+-
+-
+80
+-
+70
+04 Number of communities sensitized
+-
+-
+8
+-
+8
+Road Infrastructure Developed and Maintained
+01 Kilometers of roads marked
+-
+-
+50
+-
+50
+02 Kilometers of drainage constructed
+-
+-
+10
+-
+10
+03 Kilometers of drainage maintained
+-
+-
+10
+-
+10
+04 Kilometers of Township roads rehabilitated
+-
+-
+30
+-
+30
+05 Kilometer of potholes Patched
+-
+-
+10
+-
+20
+Road Safety and Traffic Management Improved
+01 Number of Speed Humps Installed
+-
+-
+30
+-
+30
+02 Number of Road Signs Installed
+-
+-
+60
+-
+60
+Non-Motorized Transport (NMT) Infrastructure Development and Maintenance
+Enhanced
+01 Kilometers of pedestrian walkways constructed
+-
+-
+-
+-
+1
+02 Kilometers of pedestrian walkways maintained
+-
+-
+-
+-
+1
+03 Kilometers of cycle lanes constructed
+-
+-
+-
+-
+2
+Street Lighting and Traffic Control Systems Improved
+01 Number of Street lighting poles erected
+301
+-
+-
+301
+100
+03 Number of traffic lights Junctions maintained
+-
+-
+-
+-
+5
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+
+===== PAGE 28 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 28
+9006
+HEAD
+LUSAKA CITY COUNCIL
+In 2026, Lusaka City Council will implement the Housing and Community Amenities Programme with a focus
+on creating greener, safer, and more accessible urban spaces, while strengthening infrastructure, services,
+and tenure security. To improve urban green spaces, the Council will maintain and inspect 100 public
+vegetation sites and produce 1,000 seedlings to expand the city’s greenery. A further 1,000 trees, shrubs,
+and lawns will be planted and irrigated, while 168 tree trimming and debris removal exercises will enhance
+environmental safety and aesthetics. The development of one public play park will also provide a
+recreational space that supports community wellbeing and social cohesion. In market services and sanitation,
+formalization and hygiene will be priorities. The Council will register 695 market stands and 215 market
+shops, and renew 7,000 occupancy permits to strengthen compliance and management of trading spaces.
+Capacity will be built through four food systems training sessions, equipping market actors with the
+knowledge to handle food safely and efficiently. Daily sanitation services, including maintenance of toilets
+and bathrooms, sweeping, garbage collection, and servicing of refuse bins, will ensure that markets and bus
+stations remain clean, safe, and hygienic for traders and the public alike. Under local authority infrastructure
+improvement, the Council will rehabilitate eight community halls, two community schools, and two pre-
+schools, while constructing two classroom blocks and two school ablution blocks to enhance educational
+and social infrastructure. Additionally, three mini civic centres will be completed, decentralizing municipal
+services and improving access for communities. To strengthen security of tenure, the Council will number
+7,000 properties and register 5,500 households, while processing 70 occupancy licence documents.
+Community sensitization programmes in eight communities will further promote awareness of property
+rights and land tenure processes. In road infrastructure development and maintenance, 50 kilometres of
+roads will be marked, 10 kilometres of drainage constructed and maintained, 30 kilometres of township
+roads rehabilitated, and 20 kilometres of potholes patched. These interventions will improve road
+conditions, enhance drainage, and reduce transport-related disruptions. To enhance road safety and traffic
+management, 30 speed humps and 60 road signs will be installed in strategic locations. Non-motorized
+transport infrastructure will also be strengthened through the construction of 1 kilometre of pedestrian
+walkways, maintenance of 1 kilometre of existing walkways, and 2 kilometres of cycle lanes, promoting
+safer, more inclusive mobility. Finally, street lighting and traffic control systems will be improved with the
+erection of 100 street lighting poles and the completion of 12 maintenance activities, enhancing visibility,
+public safety, and urban livability after dark. Through these integrated interventions, Lusaka City Council will
+deliver tangible improvements across environmental management, public infrastructure, mobility, and
+community services, ensuring that the city becomes greener, safer, and more inclusive for all residents.
+
+===== PAGE 29 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 29
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+7
+Recreation Culture and Religion
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To promote recreation, culture, religious affairs, and talent identification in the district.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+2,658,911
+-
+-
+409,142
+1,330,386
+Personal Emoluments
+01
+2,020,947
+-
+01Salaries and Wages
+860,995
+-
+-
+-
+-
+02Other Emoluments
+106,000
+106,000
+-
+637,964
+-
+03Personnel Related Costs
+363,391
+303,142
+-
+9,306,987
+-
+-
+6,358,562
+6,698,020
+Use of Goods and Services
+02
+9,306,987
+-
+02General Operations
+6,698,020
+6,358,562
+-
+211,883
+-
+-
+791,126
+2,210,570
+Assets
+04
+211,883
+-
+01Non-Financial Assets (Capital Expenditure)
+2,210,570
+791,126
+-
+Programme Total
+12,177,781
+7,558,830
+-
+-
+10,238,975
+In 2026, Lusaka City Council will implement the Recreation, Culture, and Religion Programme with a total
+allocation of K12.2 million, aimed at promoting recreation, cultural activities, religious affairs, and talent
+identification across the district. The programme budget is distributed across key economic categories to
+ensure efficient personnel management, operational effectiveness, and strategic investment in assets. A
+total of K2.7 million will be directed to personal emoluments, including salaries, wages, other
+allowances, and personnel-related costs. This allocation ensures that the Council’s workforce is
+adequately compensated and supported to deliver high-quality services in libraries, cultural affairs, and
+sports promotion. The largest portion of the budget, K9.2 million, is earmarked for use of goods and
+services, covering operational costs required to maintain and run libraries, rehabilitate sports facilities,
+implement cultural initiatives, and conduct talent development activities. This allocation will support day-
+to-day programme delivery, including facility maintenance, training programmes, community events,
+and the procurement of essential materials and services. A smaller portion, K211,883, will be invested in
+assets (capital expenditure), ensuring that critical non-financial assets are acquired or maintained to
+support the programme’s infrastructure needs, including library facilities, sports equipment, and other
+cultural and recreational infrastructure. Through this distribution, Lusaka City Council will ensure that
+resources are efficiently allocated to sustain personnel, maintain operations, and support strategic
+investments, thereby enhancing the overall delivery of recreational, cultural, and talent development
+services across the district.
+
+===== PAGE 30 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 30
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Recreation Culture and Religion
+0007
+Programme
+:
+7 Recreation Culture and Religion
+12,177,781
+7,558,830
+10,238,975
+1,724
+1,724
+18,000
+-
+001 Cultural Affairs
+-
+3,931,791
+3,111,576
+4,544,845
+-
+039 Library Services
+-
+8,244,266
+4,445,530
+5,676,130
+-
+042 Sports Promotion
+-
+-
+12,177,781
+Programme Total
+10,238,975
+7,558,830
+-
+12,177,781
+In 2026, Lusaka City Council will implement the Recreation, Culture, and Religion Programme with a total
+allocation of K12.18 million, supporting community learning, cultural development, and recreational
+activities across the district. The programme budget is distributed across key subprogrammes that
+strengthen library services, promote cultural affairs, and enhance sports development. Under Library
+Services, K3.93 million has been allocated to upgrade facilities, improve access to modern learning
+resources, and create spaces that support research, education, and community engagement. This
+investment will ensure residents benefit from well-equipped libraries that foster knowledge, learning,
+and community interaction. The Cultural Affairs subprogramme will receiv1,724 to support initiatives
+that preserve and promote arts, heritage, and community participation. These resources will fund
+activities that celebrate local culture, encourage creative expression, and strengthen social cohesion
+within communities. To promote Sports Development, K8.24 million will be directed towards the
+rehabilitation of sports facilities, support for talent identification and development activities, and the
+sponsorship of sports clubs. This allocation will provide safe, functional spaces for athletes and
+community members, nurture emerging talent in sports and the arts, and encourage participation in
+structured competitions and recreational activities. Through these strategic allocations, Lusaka City
+Council will enhance access to cultural, learning, and recreational infrastructure, foster talent, and
+provide communities with opportunities for education, active lifestyles, and creative expression.
+
+===== PAGE 31 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 31
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+7Recreation Culture and Religion
+Programme:
+Key Output and Output Indicator
+Library & Information Services Enhanced
+01 Number of Library Facilities Upgraded
+3
+-
+1
+3
+1
+Sports, Arts & Cultural Development Promoted
+01 Number of sports facilities rehabilitated
+2
+-
+1
+2
+2
+02 Number of talent identification and development activities conducted
+-
+-
+-
+-
+2
+03 Number of sports clubs sponsored
+3
+3
+3
+3
+4
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will advance community learning, recreation, and cultural development by
+investing in library services, sports facilities, and talent development initiatives. To enhance library and
+information services, one facility will be upgraded, improving access to modern learning resources and
+creating spaces that support research, education, and community engagement. In the area of sports, arts,
+and cultural development, the Council will rehabilitate two sports facilities, ensuring that athletes and
+community members have safe, functional spaces for training and competition. Complementing this, two
+talent identification and development activities will be conducted, aimed at discovering and nurturing
+emerging athletes and artists. To further strengthen community participation, four sports clubs will be
+sponsored, providing structured support for local competitions and promoting active lifestyles across the
+district. These combined interventions will ensure that Lusaka’s communities have access to quality
+recreational and cultural infrastructure, foster talent, and enjoy greater opportunities for learning, creative
+expression, and social cohesion.
+
+===== PAGE 32 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 32
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+8
+Education and skills development
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To facilitate literacy and skills development in the communities
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+20,481,661
+-
+-
+18,555,620
+18,295,096
+Personal Emoluments
+01
+15,311,745
+-
+01Salaries and Wages
+14,228,594
+14,479,473
+-
+-
+-
+02Other Emoluments
+700
+-
+-
+5,169,916
+-
+03Personnel Related Costs
+4,065,802
+4,076,148
+-
+13,347,891
+-
+-
+2,741,523
+2,161,239
+Use of Goods and Services
+02
+13,347,891
+-
+02General Operations
+2,161,239
+2,741,523
+-
+311,485
+-
+-
+128,091
+1,735,000
+Assets
+04
+311,485
+-
+01Non-Financial Assets (Capital Expenditure)
+1,735,000
+128,091
+-
+Programme Total
+34,141,037
+21,425,235
+-
+-
+22,191,335
+In 2026, the Education and Skills Development Programme is allocated K34.1 million to facilitate literacy,
+vocational training, and skills development across Lusaka communities. The programme budget is
+distributed across key economic categories to ensure effective personnel management, smooth
+operations, and strategic investments in learning infrastructure. A total of K20.5 million is allocated to
+Personal Emoluments, covering salaries, wages, and personnel-related costs for education officers,
+facilitators, and support staff. This allocation ensures that the programme is adequately staffed to
+deliver high-quality literacy and skills development services across the district. Use of Goods and Services
+receives K13.3 million, which will fund general operations, community-based learning activities, adult
+literacy programmes, early childhood education, and vocational training initiatives. These resources will
+enable the effective delivery of educational services and support broad community engagement in
+learning activities. A smaller allocation of K311,485 is directed to Non-Financial Assets (capital
+expenditure), supporting investments in classroom improvements, learning facilities, and other
+infrastructure critical for enhancing the teaching and learning environment. Through this distribution,
+Lusaka City Council demonstrates its commitment to inclusive education, lifelong learning, and skills
+development, ensuring that communities have access to quality educational opportunities that empower
+individuals and strengthen human capital across the district.
+
+===== PAGE 33 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 33
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Education and skills development
+0008
+Programme
+:
+8 Education and skills development
+34,141,037
+21,425,235
+22,191,335
+19,915
+19,241
+2,000
+-
+001 District archives
+-
+23,307,593
+657,645
+19,538,921
+-
+005 Early Childhood Education
+-
+10,813,529
+20,748,349
+2,650,414
+-
+010 Adult Literacy
+-
+-
+34,141,037
+Programme Total
+22,191,335
+21,425,235
+-
+34,141,037
+In 2026, Lusaka City Council will implement the Education and Skills Development Programme with a
+total allocation of K34.1 million, supporting literacy, vocational training, and skills development across
+the district. The programme budget is distributed across key subprogrammes to ensure targeted
+investment in early learning, adult education, and archival services. Under District Arch K19,915 is
+allocated to maintain and manage archival records, ensuring the preservation of educational and
+institutional documents for future reference and research. The Early Childhood Education subprogramme
+will receive K23.3 million to expand access to early learning opportunities, support pre-school
+infrastructure, and provide resources for young learners and educators. This investment will strengthen
+foundational education and ensure that children enter primary school well-prepared. Adult Literacy is
+allocated K10.8 million to enhance literacy and vocational skills among adults, providing opportunities
+for lifelong learning and empowerment. These resources will support community-based literacy
+programmes, skills training initiatives, and capacity-building activities that enable adults to improve their
+education, employability, and participation in community development. Through these strategic
+allocations, Lusaka City Council will ensure that resources are effectively targeted to strengthen early
+childhood education, adult learning, and archival services, fostering inclusive education and building
+human capital across the district.
+
+===== PAGE 34 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 34
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+8Education and skills development
+Programme:
+Key Output and Output Indicator
+District Records Management Strengthened
+01 Number of survey reports produced
+-
+-
+2
+-
+2
+02 Percentage of records collected
+-
+-
+100
+-
+100
+03 Percentage of processed records shelved
+-
+-
+-
+-
+100
+Quality Early Childhood Education Services Expanded
+01 Number of play spaces established
+-
+-
+-
+-
+9
+02 Number of orphans and vulnerable pupils provided pre-school education
+200
+200
+200
+200
+200
+03 Number of pre-school children enrolled
+200
+200
+200
+200
+200
+04 Number of learning kit & materials provided
+-
+-
+-
+-
+1,200
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will advance education and skills development across the district through
+targeted interventions in district records management, early childhood education, and adult literacy
+initiatives. To strengthen district records management, the Council will produce two survey reports to assess
+and document educational data, while ensuring that 100% of records are collected and 100% of processed
+records are properly shelved. These activities will improve the organization, accessibility, and preservation of
+institutional records for planning and research purposes. Under early childhood education, the Council will
+establish nine new play spaces to provide safe and stimulating environments for young learners. In addition,
+200 orphans and vulnerable pupils will be provided with pre-school education, and 200 pre-school children
+will be enrolled in the programme, ensuring access to quality early learning opportunities. To support
+teaching and learning, 1,200 learning kits and educational materials will be distributed, enhancing classroom
+resources and promoting an engaging learning environment. Through these interventions, Lusaka City
+Council will strengthen foundational education, expand access to early learning for vulnerable children, and
+ensure that educational infrastructure and resources meet the needs of learners, laying the groundwork for
+lifelong learning and skills development across the district.
+
+===== PAGE 35 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 35
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+10
+Public order and safety
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+	To enforce adherence to by-laws and other applicable laws and promote safety of private and public property.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+53,000,133
+-
+-
+41,504,486
+33,859,755
+Personal Emoluments
+01
+42,344,177
+-
+01Salaries and Wages
+30,986,597
+35,454,610
+-
+1,303,500
+-
+02Other Emoluments
+101,500
+568,000
+-
+9,352,456
+-
+03Personnel Related Costs
+2,771,658
+5,481,876
+-
+21,337,027
+-
+-
+10,199,236
+12,263,410
+Use of Goods and Services
+02
+21,337,027
+-
+02General Operations
+12,263,410
+10,199,236
+-
+14,369,779
+-
+-
+9,616,106
+3,006,205
+Assets
+04
+14,369,779
+-
+01Non-Financial Assets (Capital Expenditure)
+3,006,205
+9,616,106
+-
+Programme Total
+88,706,940
+61,319,828
+-
+-
+49,129,370
+In 2026, Lusaka City Council will implement the Public Order and Safety Programme with a total
+allocation of K88.7 million, aimed at enforcing by-laws, promoting public safety, and protecting private
+and public property across the district. The programme budget is distributed across personnel,
+operational, and asset categories to ensure effective law enforcement and community safety. A total of
+K53.0 million is allocated to Personal Emoluments, covering salaries, wages, other allowances, and
+personnel-related costs for law enforcement officers and support staff. This ensures that the workforce
+is adequately compensated and equipped to enforce by-laws, respond to incidents, and maintain public
+order. Use of Goods and Services receives K21.3 million to fund general operations, including field
+operations, community policing initiatives, patrols, enforcement campaigns, and other activities essential
+for maintaining safety and compliance with applicable laws. These resources support day-to-day
+programme delivery and enhance the effectiveness of safety and enforcement measures. An allocatof
+K14.4 million is designated for Non-Financial Assets (capital expenditure), which will be used to acquire
+or maintain critical equipment, vehicles, and infrastructure necessary for operational efficiency and the
+safe execution of law enforcement activities. Through this strategic distribution, Lusaka City Council will
+ensure that resources are efficiently applied to strengthen enforcement capacity, protect communities,
+and enhance the safety and security of public and private property throughout the district.
+
+===== PAGE 36 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 36
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Public order and safety
+0010
+Programme
+:
+10 Public order and safety
+88,706,940
+61,319,828
+49,129,370
+38,576,307
+24,942,238
+19,324,615
+-
+018 Community policing
+-
+50,130,633
+36,377,590
+29,804,755
+-
+041 Fire protection services
+-
+-
+88,706,940
+Programme Total
+49,129,370
+61,319,828
+-
+88,706,940
+In 2026, Lusaka City Council will implement the Public Order and Safety Programme with a total
+allocation of K88.7 million, aimed at promoting law enforcement, community safety, and the protection
+of public and private property across the district. The programme budget is distributed across two
+subprogrammes to ensure targeted investment in community policing and fire protection services. Under
+Community Policing, K38.6 million will be allocated to strengthen law enforcement at the community
+level, enhance patrols, support local policing initiatives, and engage residents in safety and crime
+prevention activities. This subprogramme ensures that neighbourhoods receive focused attention to
+maintain public order, promote compliance with by-laws, and foster safer communities. The Fire
+Protection Services subprogramme will receive K50.1 million to support firefighting operations,
+emergency response, fire safety education, and the acquisition and maintenance of firefighting
+equipment. These resources will enhance the city’s capacity to respond to fire incidents, protect lives
+and property, and reduce fire-related risks across Lusaka. Through these strategic allocations, Lusaka City
+Council will ensure that resources are effectively applied to strengthen community safety, improve law
+enforcement effectiveness, and enhance emergency preparedness, creating safer and more resilient
+urban environments for residents.
+
+===== PAGE 37 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 37
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+10Public order and safety
+Programme:
+Key Output and Output Indicator
+Community Safety and Security Enhanced
+01 Number of compliance patrols undertaken
+-
+-
+365
+-
+365
+02 Number of Council Properties Secured
+100
+100
+74
+100
+74
+Fire Safety and Emergency Response Strengthened
+01 Percentage of emergency calls within 20–30 KM radius responded
+100
+100
+100
+100
+100
+02 Percentage of causes of fires determined
+-
+-
+100
+-
+100
+03 Number of fire certificates issued
+-
+-
+46,000
+-
+46,000
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will strengthen public safety, law enforcement, and emergency response
+services across the district through targeted interventions in community policing and fire protection. To
+enhance community safety and security, the Council will undertake 365 compliance patrols throughout the
+year, ensuring that by-laws and regulations are enforced consistently. Additionally, 74 Council properties will
+be secured, safeguarding public assets and promoting a safe environment for residents and municipal
+operations. Under fire safety and emergency response, the Council will maintain a high level of operational
+readiness, responding to 100% of emergency calls within a 20–30 kilometre radius. Investigations will
+determine the cause of all reported fires, and 46,000 fire certificates will be issued to promote fire
+compliance and prevention across the city. These interventions will improve emergency preparedness,
+reduce risks, and enhance the overall safety and resilience of Lusaka communities. Through these measures,
+Lusaka City Council will ensure that residents and municipal assets are protected, that emergency services
+are responsive and effective, and that the district maintains high standards of public safety and fire
+prevention.
+
+===== PAGE 38 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 38
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+11
+Management and support  Services
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To provide organizational oversight as well as facilitate effective and efficient management of financial and human resources
+of the local authority
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+117,611,078
+-
+-
+100,602,670
+62,952,633
+Personal Emoluments
+01
+93,645,270
+-
+01Salaries and Wages
+50,879,537
+83,414,384
+-
+3,480,360
+-
+02Other Emoluments
+3,570,979
+57,600
+-
+20,485,447
+-
+03Personnel Related Costs
+8,502,117
+17,130,686
+-
+43,004,148
+-
+-
+24,965,189
+27,591,406
+Use of Goods and Services
+02
+43,004,148
+-
+02General Operations
+27,591,406
+24,965,189
+-
+34,876,821
+-
+-
+12,780,604
+8,658,006
+Assets
+04
+34,876,821
+-
+01Non-Financial Assets (Capital Expenditure)
+8,658,006
+12,750,604
+-
+-
+-
+02Financial Assets
+-
+30,000
+-
+49,166,236
+-
+-
+35,556,360
+36,911,360
+Liabilities
+05
+49,166,236
+-
+01 Outstanding Bills
+36,911,360
+35,556,360
+-
+Programme Total
+244,658,282
+173,904,823
+-
+-
+136,113,405
+In 2026, Lusaka City Council will implement the Management and Support Programme with a total
+allocation of K244.7 million, aimed at strengthening the management of financial and human resources,
+improving operational efficiency, and ensuring organizational accountability. A total of K117.6 million is
+allocated to Personal Emoluments to cover salaries, wages, other allowances, and personnel-related
+costs for staff across the local authority, ensuring that the workforce is well-resourced to deliver
+effective administrative and oversight functions. Use of Goods and Services receives K43.0 million to fund
+general operations, including day-to-day management, administrative support, and the implementation
+of organizational initiatives. Non-Financial Assets (capital expenditure) are allocated K34.9 million to
+support investments in office infrastructure, equipment, and systems that enhance administrative
+efficiency. Finally, Liabilities of K49.2 million are provided for the settlement of outstanding bills, ensuring
+continuity of services and financial compliance. This allocation reflects Lusaka City Council’s commitment
+to effective governance, sound financial management, and robust organizational oversight.
+
+===== PAGE 39 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 39
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Management and support  Services
+0011
+Programme
+:
+11 Management and support  Services
+244,658,282
+173,904,823
+136,113,405
+109,299,955
+89,492,014
+57,931,592
+-
+001 Human Resource and Administration
+-
+17,727,263
+5,383,267
+3,904,070
+-
+009 	Executive management
+-
+2,374,886
+3,845,703
+-
+-
+016 	Procurement
+-
+14,552,887
+-
+(0)
+-
+024 ICT
+-
+4,695,071
+2,668,499
+-
+-
+028 	Auditing
+-
+70,781,720
+56,368,870
+58,150,391
+-
+035 	Accounting
+-
+25,226,500
+16,146,471
+16,127,351
+-
+036 Legal Services
+-
+-
+244,658,282
+Programme Total
+136,113,405
+173,904,823
+-
+244,658,282
+In 2026, Lusaka City Council will implement the Management and Support Services Programme with a
+total allocation of K244.7 million, aimed at strengthening organizational capacity, governance, and
+service delivery. Under Human Resource and Administration, K109.3 million is allocated to manage
+personnel, administrative processes, and staff welfare, ensuring a well-functioning workforce. Executive
+Management will receive K17.7 million to support strategic leadership, decision-making, and overall
+coordination of council activities. The Procurement subprogramme is allocated K2.4 million to facilitate
+transparent and efficient acquisition of goods and services, while ICT receives K14.6 million to enhance
+digital systems and technology infrastructure for improved operational efficiency. Auditing is provided
+K4.7 million to strengthen financial oversight and compliance, and Accounting receives K70.8 million to
+manage financial reporting, budgeting, and revenue tracking. Finally, Legal Services is allocated K25.2
+million to ensure sound legal support and risk management across council operations. This distribution
+ensures that Lusaka City Council has the necessary resources to maintain effective management, robust
+oversight, and efficient support services, contributing to overall institutional performance.
+
+===== PAGE 40 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 40
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+11Management and support  Services
+Programme:
+Key Output and Output Indicator
+Change Management strategy executed
+01 Percentage of municipal services accessed via digital platforms
+-
+-
+-
+-
+70
+02 Percentage of citizen engagements through digital platforms conducted
+-
+-
+-
+-
+50
+03 Percentage in digital revenue collection increased
+-
+-
+-
+-
+70
+Human Resource Management Strengthened
+01 Number of Council Police Officers recruited
+-
+-
+-
+-
+70
+02 Number of Human resource reports prepared
+-
+-
+12
+-
+12
+Marriages Solemnized
+01 Percentage of marriages solemnized
+100
+100
+100
+100
+100
+Public Engagement and Awareness Strengthened
+01 Number of Local forums held
+-
+-
+-
+-
+7
+02 Number of media briefings held
+-
+-
+-
+-
+24
+03 Number of Municipal campaigns conducted
+-
+-
+-
+-
+12
+Information & Communication Technology (ICT) Systems and Infrastructure
+Optimized
+01 Percentage of ICT infrastructure maintained
+-
+-
+-
+-
+100
+02 Number of Enterprise Resource Planning System operationalized
+-
+-
+-
+-
+1
+Financial Management and Reporting Strengthened
+01 Number of Financial Statements Prepared
+1
+1
+1
+1
+1
+02 Number of annual budgets prepared
+1
+1
+1
+1
+1
+03 Percentage of council debt liquidated
+10
+-
+8
+10
+8
+Budget Performance and Accountability Monitored
+01 Number of budget performance reports produced
+-
+-
+-
+-
+4
+02 Number of budget stakeholder meetings held
+38
+38
+38
+38
+16
+Land and Property Administration Strengthened
+01 Number  Of Title Deeds Prepared
+-
+-
+150
+-
+150
+02 Number of Offer letters processed
+-
+-
+10
+-
+10
+03 Number of change of onwership documents processed
+-
+-
+400
+-
+500
+Licensing and Compliance Services Strengthened
+01 Number of business levies issued
+-
+-
+50,000
+-
+50,000
+02 Number of occupancy licenses prepared
+-
+-
+300
+-
+300
+03 Number of liquor licenses issued
+-
+-
+1,000
+-
+1,000
+Procurement Processes Managed
+01 Number of Procurement Plans developed
+1
+1
+1
+1
+1
+02 Percentage of tenders advertised and awarded
+-
+-
+-
+-
+100
+Audit and Compliance Strengthened
+01 Number of audit reports prepared
+4
+4
+4
+4
+4
+02 Percentage of audit recommendations actioned
+-
+-
+-
+-
+100
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+
+===== PAGE 41 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 41
+9006
+HEAD
+LUSAKA CITY COUNCIL
+To drive change management, the Council will ensure that 70% of municipal services are accessed via digital
+platforms, 50% of citizen engagements are conducted online, and digital revenue collection increases by
+70%, promoting efficiency, transparency, and convenience for residents. Under human resource
+management, 70 Council Police Officers will be recruited, and 12 human resource reports prepared to
+strengthen workforce planning, monitoring, and accountability. The programme will also ensure that 100%
+of marriages are solemnized in line with statutory requirements. Public engagement and awareness will be
+strengthened through seven local forums, 24 media briefings, and 12 municipal campaigns, fostering
+informed and participatory communities. For ICT systems and infrastructure, 100% of ICT infrastructure will
+be maintained, and the Enterprise Resource Planning (ERP) system operationalized, enhancing digital
+governance and operational efficiency. In financial management and reporting, the Council will prepare one
+set of financial statements and one annual budget, while achieving a 8% liquidation of council debt, ensuring
+fiscal discipline and accountability. Budget performance will be monitored through four reports and 16
+stakeholder meetings, supporting evidence-based decision-making. Land and property administration will be
+strengthened with the preparation of 150 title deeds, processing of 10 offer letters, and 500 change-of-
+ownership documents, facilitating secure tenure and property management. Under licensing and compliance,
+the Council will issue 50,000 business levies, prepare 300 occupancy licenses, and issue 1,000 liquor licenses,
+ensuring compliance with statutory requirements and promoting orderly business operations. Procurement
+processes will be managed through the development of one procurement plan and the advertisement and
+awarding of 100% of tenders, ensuring transparency and efficiency. Finally, audit and compliance will be
+strengthened with four audit reports prepared and 100% of audit recommendations actioned, supporting
+accountability, risk mitigation, and improved governance. Through these outputs, Lusaka City Council will
+ensure that its management and support services are efficient, accountable, digitally enabled, and
+responsive to the needs of residents and stakeholders.
+
+===== PAGE 42 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 42
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+12
+Resource Mobilisation and Management
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To ensure a systematic, predictable and well-coordinated approach to soliciting, acquiring, management, accounting,
+reporting and monitoring of resources.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+36,201,872
+-
+-
+31,510,502
+29,593,805
+Personal Emoluments
+01
+30,830,117
+-
+01Salaries and Wages
+26,067,035
+27,607,974
+-
+5,371,755
+-
+03Personnel Related Costs
+3,526,771
+3,902,528
+-
+21,291,346
+-
+-
+14,823,528
+26,261,970
+Use of Goods and Services
+02
+21,291,346
+-
+02General Operations
+26,261,970
+14,823,528
+-
+8,796,420
+-
+-
+6,517,955
+8,328,544
+Assets
+04
+8,796,420
+-
+01Non-Financial Assets (Capital Expenditure)
+8,328,544
+6,517,955
+-
+Programme Total
+66,289,638
+52,851,985
+-
+-
+64,184,320
+In 2026, Lusaka City Council will implement the Revenue Mobilization and Resource Management
+Programme with a total allocation of K66.3 million, aimed at ensuring a systematic, predictable, and well-
+coordinated approach to resource solicitation, acquisition, management, accounting, reporting, and
+monitoring. A total of K36.2 million is allocated to Personal Emoluments to cover salaries, wages, and
+personnel-related costs, ensuring that staff are adequately resourced to manage revenue collection,
+financial controls, and resource administration effectively. Use of Goods and Services receives K21.3
+million to fund general operations, including daily revenue collection activities, resource management
+initiatives, and operational support for efficient service delivery. Non-Financial Assets (capital
+expenditure) are allocated K8.8 million to support investments in infrastructure, systems, and equipment
+that enhance the efficiency and accuracy of resource management and financial reporting. This allocation
+reflects Lusaka City Council’s commitment to efficient, transparent, and accountable revenue and
+resource management, strengthening the financial foundation for sustainable service delivery across the
+district.
+
+===== PAGE 43 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 43
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Resource Mobilisation and Management
+0012
+Programme
+:
+12 Resource Mobilisation and Management
+66,289,638
+52,851,985
+64,184,320
+66,289,638
+52,851,985
+64,184,320
+-
+067 Revenue Mobilisation and Enhancement
+-
+-
+66,289,638
+Programme Total
+64,184,320
+52,851,985
+-
+66,289,638
+In 2026, Lusaka City Council will implement the Resource Mobilisation and Management Programme
+with a total allocation of K66.3 million, aimed at ensuring an efficient, coordinated, and transparent
+approach to revenue generation and resource management across the district. The entire allocation is
+directed to Revenue Mobilisation and Enhancement, which will strengthen revenue collection systems,
+enhance financial controls, and support operational activities that improve the predictability and
+reliability of council resources. This investment will enable the Council to mobilize resources effectively,
+maintain accurate accounting, and provide the financial foundation for sustainable municipal service
+delivery. Through this focused allocation, Lusaka City Council will reinforce its capacity to collect,
+manage, and monitor resources systematically, ensuring sustainable financing for ongoing operations
+and development initiatives.
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+12Resource Mobilisation and Management
+Programme:
+Key Output and Output Indicator
+Revenue Collection Strengthened
+01 Proportion of budgeted revenue collected (OSR)
+100
+-
+100
+100
+100
+02 Number of revenue check points manned (markets and parking areas)
+18
+94
+94
+18
+94
+Valuation Roll Updated.
+01 Percentage of valuation roll updated
+100
+100
+100
+100
+100
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will strengthen revenue collection and resource management through targeted
+interventions under the Resource Mobilisation and Management Programme. To improve revenue
+collection, the Council will achieve 100% of budgeted Own Source Revenue (OSR) and maintain 94 revenue
+checkpoints across markets and parking areas, ensuring efficient and consistent collection of fees and
+levies. The valuation roll will also be fully updated, with 100% of properties recorded, supporting accurate
+property assessments, billing, and planning for municipal services. These actions will ensure that Lusaka City
+Council has a predictable and sustainable revenue base, enabling efficient financial management and
+supporting the delivery of services and development initiatives across the district.
+
+===== PAGE 44 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 44
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+13
+District Health servcies
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To facilitate provision of adequate and efficient delivery of primary health care and hospital services.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+-
+-
+-
+1,834,060
+2,526,038
+Personal Emoluments
+01
+-
+-
+02Other Emoluments
+2,526,038
+1,834,060
+-
+23,930,704
+-
+-
+22,525,837
+23,504,530
+Use of Goods and Services
+02
+23,930,704
+-
+02General Operations
+23,504,530
+22,525,837
+-
+1,087,723
+-
+-
+781,175
+-
+Assets
+04
+910,975
+-
+01Non-Financial Assets (Capital Expenditure)
+-
+604,427
+-
+176,748
+-
+02Financial Assets
+-
+176,748
+-
+122,644
+-
+-
+-
+-
+Liabilities
+05
+122,644
+-
+01 Outstanding Bills
+-
+-
+-
+Programme Total
+25,141,071
+25,141,072
+-
+-
+26,030,568
+In 2026, the District Health Services Programme is allocated K25.14 million to support the delivery of
+primary health care and hospital services across Lusaka. Under Use of Goods and Services, K23.92 million
+will fund general operations, including medical supplies and service delivery. Non-Financial Assets
+receive K910,975 for capital investments in health infrastructure. An additional K176,748 is allocated
+under Financial Assets, and K122,644 under Liabilities to address outstanding obligations. This allocation
+reflects Lusaka City Council’s commitment to accessible, efficient, and well-coordinated health service
+provision.
+
+===== PAGE 45 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 45
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+District Health servcies
+0013
+Programme
+:
+13 District Health servcies
+25,141,071
+25,141,072
+26,030,568
+18,494,418
+18,494,420
+19,343,221
+-
+001 Primary Health Services
+-
+4,084,338
+4,084,338
+4,084,338
+-
+002 District Health Coordination
+-
+2,562,315
+2,562,315
+2,603,009
+-
+003 Hospital Services
+-
+-
+25,141,071
+Programme Total
+26,030,568
+25,141,072
+-
+25,141,071
+In 2026, Lusaka City Council will implement the District Health Services Programme with a total
+allocation of K25.1 million, aimed at ensuring effective primary health care, hospital services, and district-
+level health coordination. Under Primary Health Services, K18.5 million is allocated to support the
+delivery of community health services, preventive care, and public health outreach across Lusaka.
+District Health Coordination receives K4.1 million to strengthen planning, monitoring, and management
+of health programmes at the district level. Finally, Hospital Services is allocated 2,562,315 to support
+operational costs, infrastructure, and service delivery in council-managed hospitals. Through these
+allocations, Lusaka City Council will ensure that residents have access to well-coordinated, adequately
+resourced, and quality health services across the district.
+
+===== PAGE 46 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 46
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+13District Health servcies
+Programme:
+Key Output and Output Indicator
+Childhood Immunization Services Provided
+01 Percentage of children under one year fully vaccinated
+-
+-
+90
+-
+90
+Maternal and Child Health Care Services Provided
+01 Percentage of pregnant women receiving at least one antenatal care (ANC)
+visit
+-
+-
+90
+-
+90
+Reproductive and Maternal Health Services Provided
+01 Percentage of deliveries conducted in health facilities under skilled
+supervision
+-
+-
+87
+-
+87
+02 Number of new family planning acceptors recorded
+-
+-
+2,000
+-
+2,000
+Malaria Prevention and Case Management Services Provided
+01 Percentage of malaria inpatients who died due to malaria
+-
+-
+-
+-
+(0)
+HIV Prevention, Testing, and Treatment Services Provided
+01 Percentage of people living with HIV aware of their HIV status
+-
+-
+95
+-
+95
+02 Percentage of newly diagnosed HIV-positive individuals initiated on ART
+-
+-
+95
+-
+95
+Nutrition Services Provided
+01 Number of health facilities with functional nutrition equipment and tools
+-
+-
+65
+-
+65
+Clean Water Supply and Sanitation Services Provided to Health Facilities
+01 Number of health facilities with adequate clean and safe water supply
+-
+-
+66
+-
+66
+02 Number of health facilities with functional waterborne toilet facilities
+-
+-
+65
+-
+66
+Environmental Health Services Conducted
+01 Number of premises inspected and found compliant with public health
+standards
+-
+-
+36,250
+-
+36,250
+02 Number of epidemic preparedness meetings conducted
+-
+-
+4
+-
+4
+Health Promotion and Behavior Change Services Provided
+01 Number of people reached through health education activities
+-
+-
+2,000,000
+-
+2,000,000
+02 Number of social and behavior change (SBC) materials distributed
+-
+-
+70,000
+-
+70,000
+Community engagement strengthened
+01 Number of stakeholder meetings held
+-
+-
+2
+-
+2
+Referral system strengthened
+01 Percentage of cases referred
+-
+-
+100
+-
+100
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+
+===== PAGE 47 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 47
+9006
+HEAD
+LUSAKA CITY COUNCIL
+In 2026, Lusaka City Council will strengthen the delivery of health services through the District Health
+Services Programme, ensuring comprehensive primary health care, maternal and child health, and disease
+prevention across the district. Under childhood immunization, 90% of children under one year will be fully
+vaccinated, promoting early protection against preventable diseases. For maternal and child health, 90% of
+pregnant women will receive at least one antenatal care (ANC) visit, while 87% of deliveries will be
+conducted in health facilities under skilled supervision. In addition, 2,000 new family planning acceptors will
+be recorded to support reproductive health services. In malaria prevention and case management, the
+programme aims for zero malaria-related inpatient deaths, strengthening case management and preventive
+interventions. For HIV services, 95% of people living with HIV will be aware of their status, and 95% of newly
+diagnosed individuals will be initiated on antiretroviral therapy (ART), supporting treatment coverage and
+disease control. Nutrition services will be enhanced with 65 health facilities equipped with functional
+nutrition tools, while clean water and sanitation services will be available in 66 facilities, and 66 facilities will
+have functional waterborne toilets, ensuring hygienic and safe healthcare environments. For environmental
+health, 36,250 premises will be inspected for compliance with public health standards, and four epidemic
+preparedness meetings will be conducted to strengthen public health resilience. Through health promotion
+and behavior change, 2,000,000 people will be reached with health education, and 70,000 social and
+behavior change materials distributed, promoting informed health decisions and healthier lifestyles.
+Community engagement will be strengthened through two stakeholder meetings, and the referral system
+will ensure 100% of cases referred are appropriately managed. These combined interventions will ensure
+that Lusaka City Council delivers comprehensive, accessible, and high-quality health services, promoting the
+health and wellbeing of all residents.
+
+===== PAGE 48 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 48
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+15
+Transport Services
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To improve road network within the district of Lusaka to enheance security through provision of street lights, contruction and
+rehabilitation of roads; prevention of floods and waterborne diseases.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+6,351,370
+-
+-
+3,200,586
+-
+Assets
+04
+6,351,370
+-
+01Non-Financial Assets (Capital Expenditure)
+-
+3,200,586
+-
+Programme Total
+6,351,370
+3,200,586
+-
+-
+(0)
+In 2026, the Transport Services Programme is allocated K6.4 million to enhance road infrastructure and
+public safety across Lusaka District. The entire allocation falls under Non-Financial Assets, supporting
+capital expenditure for street lighting, road construction, drainage systems, and flood prevention. This
+investment reflects Lusaka City Council’s commitment to improving mobility, reducing environmental
+health risks, and fostering safer communities.
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Transport Services
+0015
+Programme
+:
+15 Transport Services
+6,351,370
+3,200,586
+(0)
+6,351,370
+3,200,586
+(0)
+-
+001 Road Transport
+-
+-
+6,351,370
+Programme Total
+(0)
+3,200,586
+-
+6,351,370
+In 2026, Lusaka City Council will implement the Transport Services Programme with a total allocation of
+K6.35 million, focused on improving road infrastructure, enhancing public safety, and strengthening
+urban mobility across the district. The entire allocation is directed to the Road Transport subprogramme,
+which will support the construction and rehabilitation of roads, installation of street lighting, and
+development of drainage systems. These investments will improve traffic flow, reduce flooding, enhance
+road safety, and contribute to more efficient and secure transport networks within Lusaka. Through this
+focused investment, Lusaka City Council will ensure that the district has a safe, reliable, and resilient
+road transport system that supports economic activity and community wellbeing.
+
+===== PAGE 49 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 49
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+15Transport Services
+Programme:
+Key Output and Output Indicator
+Road Infrastructure Developed
+01 Number of Road Signages Installed
+-
+-
+30
+-
+60
+02 Kilometer of Road Markings Painted
+-
+-
+1
+-
+2
+03 Kilometers of drainage constructed
+-
+-
+1
+-
+2
+04 Kilometers of drainage rehabilitated
+-
+-
+1
+-
+2
+05 Kilometers of township roads rehabilitated
+-
+-
+1
+-
+2
+06 Number of Street Lights Installed
+-
+-
+20
+-
+40
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will enhance road infrastructure and urban mobility through the Transport
+Services Programme. To improve road safety and traffic management, 60 road signages will be installed,
+while 2 kilometres of road markings will be painted to guide traffic flow. The programme will also support 2
+kilometres of drainage construction and 2 kilometres of drainage rehabilitation, reducing flooding and
+improving stormwater management across the district. In addition, 2 kilometres of township roads will be
+rehabilitated to enhance connectivity and accessibility, and 40 street lights will be installed to improve
+visibility and safety for road users during night-time. These interventions will ensure that Lusaka’s transport
+network is safer, more reliable, and better equipped to support mobility, economic activity, and community
+wellbeing.
+
+===== PAGE 50 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 50
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+16
+Agricultural Services
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To enhance agricultural productivity, support agribusiness development, provide technical and extension services and promote
+sustainable agricultural growth.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+417,871
+-
+-
+352,758
+-
+Use of Goods and Services
+02
+417,871
+-
+02General Operations
+-
+352,758
+-
+12,129
+-
+-
+12,129
+-
+Assets
+04
+12,129
+-
+01Non-Financial Assets (Capital Expenditure)
+-
+12,129
+-
+Programme Total
+430,000
+364,887
+-
+-
+-
+In 2026, Lusaka City Council will implement the Agriculture and Food Security Programme with a total
+allocation of K417,871, aimed at enhancing agricultural productivity, supporting agribusiness
+development, providing technical and extension services, and promoting sustainable agricultural
+growth. Use of Goods and Servireceives K417,871 to fund general operations, including technical support,
+extension services, and capacity building for farmers. Non-Financial Assets (capital expenditure) are
+allocated K12,129 to support minor investments in agricultural infrastructure and equipment. This
+allocation reflects Lusaka City Council’s commitment to strengthening food security, supporting
+sustainable farming practices, and promoting agricultural development across the district.
+
+===== PAGE 51 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 51
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Agricultural Services
+0016
+Programme
+:
+16 Agricultural Services
+430,000
+364,887
+-
+300,000
+234,887
+-
+-
+071 Agricultural Crop production, Advisory and
+Technical Services
+-
+30,000
+30,000
+-
+-
+072 Agribusiness Development and Marketing
+-
+100,000
+100,000
+-
+-
+073 Agriculture Co-ordination
+-
+-
+430,000
+Programme Total
+-
+364,887
+-
+430,000
+In 2026, Lusaka City Council will implement the Agricultural Services Programme with a total allocation
+of K430,000, aimed at enhancing agricultural productivity, supporting agribusiness, and strengthening
+technical and coordination services across the district. The Agricultural Crop Production, Advisory and
+Technical Services subprogramme receives K300,000 to support crop production, provide technical
+guidance to farmers, and strengthen extension services. Agribusiness Development and Marketing is
+allocated K30,000 to promote value addition, marketing, and commercialization of agricultural products.
+Agriculture Coordination receives 100,000 to ensure effective planning, monitoring, and management of
+agricultural programmes at the district level. These allocations will enable Lusaka City Council to support
+sustainable agriculture, increase productivity, and promote agribusiness development for improved
+livelihoods.
+
+===== PAGE 52 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 52
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+16Agricultural Services
+Programme:
+Key Output and Output Indicator
+Farmers and Extension Officers Trained
+01 Number of farmers trained
+-
+-
+500
+-
+500
+02 Number of extension officers trained
+-
+-
+500
+-
+500
+Crop monitoring conducted
+01 Number of crop monitoring inspections conducted
+-
+-
+32
+-
+32
+Agricultural information disseminated
+01 Percentage of agricultural information disseminated
+-
+-
+100
+-
+100
+Agricultural show exhibitions conducted
+01 Number of shows participated
+-
+-
+2
+-
+2
+Entrepreneurship development promoted
+01 Number of entrepreneurship trainings conducted
+-
+-
+5
+-
+5
+Farmer registration facilitated
+01 Number of farmers registered on ZIAMIS
+-
+-
+500
+-
+500
+Monitoring & evaluation of agricultural programmes conducted
+01 Number of Monitoring & Evaluation reports produced
+-
+-
+4
+-
+4
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will strengthen agricultural productivity, capacity, and coordination through the
+Agricultural Services Programme. Under farmer and extension officer capacity building, 500 farmers and 500
+extension officers will be trained to enhance knowledge, skills, and adoption of modern farming techniques.
+To ensure crop performance and productivity, 32 crop monitoring inspections will be conducted across the
+district. The programme will also ensure that 100% of relevant agricultural information is disseminated to
+farmers and stakeholders, supporting informed decision-making. Two agricultural shows will be participated
+in to showcase innovations, best practices, and promote networking among farmers. To promote
+agribusiness and entrepreneurship, five entrepreneurship trainings will be conducted, equipping participants
+with skills for business development and value addition. Farmer registration on Zambia Integrated
+Agricultural Management Information System will be facilitated for 500 farmers, strengthening the database
+for planning and support. In addition, four monitoring and evaluation reports will be produced to assess
+programme performance, inform future interventions, and ensure accountability. These combined efforts
+will ensure that Lusaka’s agricultural sector is productive, innovative, and well-coordinated, contributing to
+improved food security and sustainable livelihoods.
+
+===== PAGE 53 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 53
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+17
+Fisheries and Livestock
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To promote sustainable animal husbandry and aquaculture practices
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+586,389
+-
+-
+586,389
+78,000
+Use of Goods and Services
+02
+586,389
+-
+02General Operations
+78,000
+586,389
+-
+16,278
+-
+-
+16,278
+-
+Assets
+04
+16,278
+-
+01Non-Financial Assets (Capital Expenditure)
+-
+16,278
+-
+Programme Total
+602,667
+602,667
+-
+-
+78,000
+In 2026, Lusaka City Council will implement the Livestock and Aquaculture Programme with a total
+allocation of K602,667, aimed at promoting sustainable animal husbandry and aquaculture practices
+across the district. Use of Goods and Services is allocated K586,389 to fund general operations, including
+technical support, extension services, and capacity building for livestock and aquaculture producers. Non-
+Financial Assets (capital expenditure) receives K16,278 to support minor investments in livestock and
+aquaculture infrastructure and equipment. This allocation reflects Lusaka City Council’s commitment to
+enhancing productivity, promoting sustainable practices, and improving the livelihoods of farmers
+engaged in livestock and aquaculture activities.
+
+===== PAGE 54 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 54
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Fisheries and Livestock
+0017
+Programme
+:
+17 Fisheries and Livestock
+602,667
+602,667
+78,000
+61,133
+61,133
+-
+-
+074 Fisheries and Livestock Marketing
+-
+68,402
+68,402
+78,000
+-
+075 Animal Health Services
+-
+79,082
+79,082
+-
+-
+076 Fisheries Production and Productivity
+Improvement
+-
+80,910
+80,910
+-
+-
+077 Livestock Production and Productivity
+Improvement
+-
+313,139
+313,139
+-
+-
+078 District Fisheries and Livestock Coordination
+-
+-
+602,667
+Programme Total
+78,000
+602,667
+-
+602,667
+In 2026, Lusaka City Council will strengthen market access, productivity, and health in the livestock and
+fisheries sector. The Council will train 100 entrepreneurs to enhance skills, promote business
+development, and improve value chain participation. Livestock health and disease control will be
+prioritized through 500 disease surveillance exercises, issuance of 3,800 stock movement permits and
+3,500 export permits, and 36 extension visits to farmers to provide technical guidance. Capture fisheries
+productivity will be improved through four surveillance and law enforcement operations, while
+aquaculture productivity will be enhanced by promoting 48 sustainable fisheries practices. Efforts to
+increase livestock production will include 62 extension visits and nine extension trainings and
+demonstrations to support best practices in breeding, feeding, and management. These interventions
+will ensure that Lusaka’s fisheries and livestock sector is productive, well-managed, and resilient, while
+supporting entrepreneurship, food security, and sustainable livelihoods across the district.
+
+===== PAGE 55 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 55
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+17Fisheries and Livestock
+Programme:
+Key Output and Output Indicator
+Market access and entrepreneurship strengthened
+01 Number of entrepreneurs trained
+-
+-
+100
+-
+100
+Livestock health and disease control improved
+01 Number of disease surveillance  conducted
+-
+-
+500
+-
+500
+02 Number of stock movement permits issued
+-
+-
+-
+-
+3,800
+03 Number of export permits issued
+-
+-
+-
+-
+3,500
+04 Number of extension visits conducted
+-
+-
+36
+-
+36
+Capture fisheries productivity improved
+01 Number of surveillance and law enforcement operations conducted
+-
+-
+4
+-
+4
+Aquaculture productivity improved
+01 Number of sustainable fisheries practices promoted
+-
+-
+48
+-
+48
+Livestock production increased
+01 Number of extension visits conducted
+-
+-
+52
+-
+62
+02 Number of extension trainings and demonstrations conducted
+-
+-
+9
+-
+9
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will implement the Fisheries and Livestock Programme to strengthen market
+access, disease control, and productivity across both sectors. A total of 100 entrepreneurship training
+participants will be identified to promote agribusiness development. Livestock health will be supported
+through 500 disease surveillance activities, two vaccination campaigns, and 100% issuance of stock
+movement and export permits, complemented by 36 extension visits. Capture fisheries will benefit from
+four law enforcement operations, while aquaculture will see 48 sustainable practices promoted. Livestock
+production will be enhanced through 62 extension visits and nine training and demonstration sessions,
+ensuring improved yields and sector resilience.
+
+===== PAGE 56 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 56
+9006
+HEAD
+LUSAKA CITY COUNCIL
+BUDGET PROGRAMMES
+Expendit
+ure*
+Expendit
+ure
+Approved
+18
+Social Protection and Community Development
+Approved
+2024  BUDGET
+2025  BUDGET
+2026 BUDGET
+Estimates
+ECONOMIC CLASSIFICATION
+Programme Objective
+:
+To provide inclusive and integrated social protection services to the poor and vulnerable in communities.
+Table  4:  Programme Budget Allocation by Economic Classification
+Programme
+60,244,398
+-
+-
+127,155,401
+-
+Use of Goods and Services
+02
+60,244,398
+-
+02General Operations
+-
+127,155,401
+-
+60,237,501
+-
+Social Welfare unit
+-
+127,155,401
+-
+26
+6,897
+-
+Community Development unit
+-
+-
+-
+27
+-
+-
+-
+27,278
+-
+Assets
+04
+-
+-
+01Non-Financial Assets (Capital Expenditure)
+-
+27,278
+-
+Programme Total
+60,244,398
+127,182,679
+-
+-
+-
+In 2026, Lusaka City Council will implement the Social Protection Programme with a total allocation of
+K60,244,398. The entire amount is allocated under Use of Goods and Services, with K60,237,501
+directed to the Social Welfare Unit to support welfare services and community interventions, and K6,897
+allocated to the Community Development Unit to facilitate local engagement and development
+initiatives.
+Expendit
+ure
+2024  BUDGET
+Expendit
+ure*
+2025  BUDGET
+Approved
+Approved
+2026 BUDGET
+Estimates
+PROGRAMME/SUBPROGRAMME
+Table  5:  Programme Budget Allocation by Subprogramme
+Social Protection and Community Development
+0018
+Programme
+:
+18 Social Protection and Community Development
+60,244,398
+127,182,679
+-
+60,237,501
+127,182,679
+-
+-
+079 District Social welfare
+-
+6,897
+(0)
+(0)
+(0)
+080 Community Development
+(0)
+-
+60,244,398
+Programme Total
+-
+127,182,679
+-
+60,244,398
+In 2026, Lusaka City Council will implement the Social Protection and Community Development
+Programme with a total allocation of K60,244,398, distributed across its subprogrammes to strengthen
+support for vulnerable communities. The District Social Welfare subprogramme receives K60,237,501 to
+deliver social welfare services and targeted interventions for poor and marginalized groups. The
+Community Development subprogramme is allocated K6,897 to facilitate local engagement, promote
+community initiatives, and strengthen participatory development at the grassroots level. These
+allocations ensure that resources are effectively directed to enhance social protection and community
+development outcomes across the district.
+
+===== PAGE 57 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 57
+9006
+HEAD
+LUSAKA CITY COUNCIL
+2026
+2025
+2024
+Target
+Actual*
+Target
+Actual
+Target
+Table  6:  Programme Outputs
+18Social Protection and Community Development
+Programme:
+Key Output and Output Indicator
+Cash for Work Programme Implemented
+01 Number of Cash for Work beneficiaries supported
+-
+-
+-
+-
+15,379
+02 Amount of Cash for Work funds disbursed
+-
+-
+-
+-
+59,563,160
+Welfare Services Provided
+01 Number of households supported
+-
+-
+25
+-
+25
+Controlling Officer:
+Executive Authority:
+Programmes under which this Council will be accounted for by the Town Clerk, Lusaka City Council
+In 2026, Lusaka City Council will implement the Social Protection and Community Development Programme
+to provide comprehensive support to vulnerable populations, strengthening social safety nets and
+promoting inclusive economic participation. Through the Cash for Work Programme, 15,379 beneficiaries
+will gain temporary employment and income support, with K59.6 million disbursed to facilitate productive
+engagement, boost household incomes, and empower communities to meet immediate needs. Beyond cash
+transfers, the programme will deliver targeted welfare services to 25 households, providing essential
+support to those most in need, including the elderly, persons with disabilities, and marginalized groups.
+These combined interventions will not only alleviate short-term economic hardship but also enhance social
+cohesion, improve community resilience, and lay the groundwork for sustainable livelihoods, positioning
+Lusaka City Council as a catalyst for equitable social development across the district.
+Head Total:
+1,151,994,694
+
+===== PAGE 58 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 58
+9006
+HEAD
+LUSAKA CITY COUNCIL
+    Geographic
+Location
+2023
+Key Outputs and Outputs Indicator
+Annex l: Outputs by Geographic Location
+2022
+2024
+MTEF Output Target
+LUSAKA CITY
+COUNCIL
+Road & Drainage Infrastructure Improved
+01
+1 Kilometres of township roads paved
+15
+15
+15
+2 Kilometres of drainage systems constructed
+2
+2
+2
+Education Infrastructure Improved
+02
+1 Number of classroom blocks constructed
+6
+6
+6
+2 Number of School ablution blocks constructed
+4
+4
+4
+Health Infrastructure Developed
+03
+1 Number of Out-Patient Departments constructed
+1
+1
+1
+2 Number of maternity wings / annexes constructed
+2
+2
+2
+3 Number of hospital shelters constructed
+1
+1
+1
+Security Infrastructure Improved
+04
+1 Number of police posts constructed
+4
+4
+4
+2 Number of police stations constructed
+1
+1
+1
+Water Infrastructure Improved
+05
+1 Number of boreholes drilled
+9
+9
+9
+2 Number of water reticulation systems installed
+1
+1
+1
+Public Lighting and Energy Access Improved
+06
+1 Number of solar streetlights installed
+100
+100
+100
+2 Number of facilities powered by solar systems
+5
+5
+5
+Empowerment Loans and Grants  Disbursed
+01
+1 Number of  grants disbursed
+700
+700
+700
+2 Number of loans disbursed
+381
+381
+381
+CDF Programme Governance and Oversight Strengthened
+01
+1 Number of CDF projects monitored
+97
+97
+97
+Secondary School and Skills Development Bursaries Disbursed
+01
+1 Number of skills development busaries scholarships awarded
+5,000
+5,000
+5,000
+2 Number of secondary schools bursaries scholarship awarded
+600
+600
+600
+Ward Development Committee  Operationalised
+01
+1 Number of ward development committee operationalised
+38
+38
+38
+2 Number of Ward Development Committees trained
+38
+38
+38
+Ward Development Committee Elections Conducted
+02
+1 Number of Ward Development Committee elections conducted
+38
+38
+38
+Policies Formulated and Coordinated
+01
+
+===== PAGE 59 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 59
+9006
+HEAD
+LUSAKA CITY COUNCIL
+1 Number of policies formulated
+2
+2
+2
+Legislative Oversight Strengthened
+02
+1 Percentage of council resolutions implementated
+100
+100
+100
+Council Resolutions Implemented
+03
+1 Number of full council meetings held
+4
+4
+4
+2 Number of Special Full Council meetings held
+2
+2
+2
+By-laws Reviewed & Updated
+04
+1 Number of by-laws reviewed & updated
+2
+2
+2
+Ward Development Fund Projects Implemented
+01
+1 Number of ward development fund projects completed
+38
+38
+38
+Civic Education Campaigns Implemented
+03
+1 Number of campaigns conducted
+38
+38
+38
+2 Number of Local Market Advisory Committee meetings held
+38
+38
+38
+Tree Planting Conducted
+01
+1 Number of trees planted
+5,000
+5,000
+5,000
+Environmental Policy Formulated
+02
+1 Number of environmental policy formulated
+1
+1
+1
+Environmental Compliance Audits Conducted
+03
+1 Number of industries inspected
+576
+576
+576
+Environmental Awareness Conducted
+04
+1 Number of Awareness Campaigns Conducted
+48
+48
+48
+Development Control on Both Permenent and Temporal Structures Conducted
+01
+1 Number of processed building plans approved
+1,440
+1,440
+1,440
+2 Number of illegal structures demolished
+25
+25
+25
+Outdoor Advertisement and Planning Permissions Processed
+02
+1 Number of processed billbosrd Applications Processed
+60
+60
+60
+Land Survey and Mappings Conducted
+03
+1 Number of land boundary disputes appllication processed
+100
+100
+100
+2 Number of beacon identifications conducted
+100
+100
+100
+3 Number of maps and survey diagrams prepared
+100
+100
+100
+Local Area Plans Formulated
+04
+1 Number of Local Area Plans Formulated
+1
+1
+1
+Citizen Sensitisation on IDP Conducted
+01
+1 Number of Community Sensitisation Events Conducted
+76
+76
+76
+Stakeholder Engagement Conducted
+02
+1 Number of Stakeholder Meetings Held
+16
+16
+16
+Community AIDS Task Forces (CATFs) Formed
+03
+
+===== PAGE 60 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 60
+9006
+HEAD
+LUSAKA CITY COUNCIL
+1 Number of CATFs Formed
+38
+38
+38
+Business Registration and Compliance Enhanced
+01
+1 Number of sensitization meetings conducted
+7
+7
+7
+Investment Promotion Strengthened
+02
+1 Number of investment promotion exhibitions held
+2
+2
+2
+2 Percentage of investment inquiries facilitated
+100
+100
+100
+3 Number of investment feasibility studies conducted
+1
+1
+1
+District Investment Feasibility Studies Conducted
+03
+1 Number of district investment feasibility studies conducted
+1
+1
+1
+Public Health and Sanitation Operations Conducted
+01
+1 Number of keep lusaka clean operations conducted
+364
+364
+364
+2 Number  of Health permits issued
+13,000
+13,000
+13,000
+3 Number of public health inspections undertaken
+15,000
+15,000
+15,000
+Safe Burial and Death Management Services Provided
+03
+1 Percentage of unclaimed bodies buried
+100
+100
+100
+2 Number  of burial services conducted
+17,717
+17,717
+17,717
+3 Number of deaths registered
+3,498
+3,498
+3,498
+Food and Water Safety Assured
+04
+1 Percentage of water samples tested
+100
+100
+100
+2 Percentage of food samples tested
+100
+100
+100
+3 Percentage of carcasses inspected
+100
+100
+100
+Pest and Animal Control Services Provided
+01
+1 Number of mosquito hot spots larvicided
+7
+7
+7
+2 Number of dogs registered
+100
+100
+100
+3 Number  of dogs tagged
+100
+100
+100
+4 Number of premises baited/sprayed
+265
+265
+265
+Urban Green Spaces Developed & Maintained
+01
+1 Number of play parks developed
+1
+1
+1
+2 Number of tree trimming and debris removal exercises conducted
+168
+168
+168
+Market Services & Sanitation Improved
+01
+1 Number of market stands  registered
+695
+695
+695
+2 Number of market shops  registered
+215
+215
+215
+3 Number  of occupancy permits renewed
+7,000
+7,000
+7,000
+4 Number of food systems trainings conducted
+4
+4
+4
+Local Authority Infrastructure Constructed
+01
+1 Number of Community Halls rehabilitated
+8
+8
+8
+2 Number of Community Schools rehabilitated
+2
+2
+2
+
+===== PAGE 61 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 61
+9006
+HEAD
+LUSAKA CITY COUNCIL
+3 Number of Pre - School rehabilitated
+2
+2
+2
+4 Number of Classroom Blocks constructed
+2
+2
+2
+5 Number of School Ablution Blocks constructed
+2
+2
+2
+6 Number of Mini Civic Centres Completed
+3
+3
+3
+Security of Tenure Strengthened
+01
+1 Number of properties numbered
+7,000
+7,000
+7,000
+2 Number of households registered
+5,500
+5,500
+5,500
+3 Number of Occupancy licence documents processed
+70
+70
+70
+4 Number of communities sensitized
+8
+8
+8
+Road Infrastructure Developed and Maintained
+01
+1 Kilometers of roads marked
+50
+50
+50
+2 Kilometers of drainage constructed
+10
+10
+10
+3 Kilometers of drainage maintained
+10
+10
+10
+4 Kilometers of Township roads rehabilitated
+30
+30
+30
+5 Kilometer of potholes Patched
+20
+20
+20
+Road Safety and Traffic Management Improved
+02
+1 Number of Speed Humps Installed
+30
+30
+30
+2 Number of Road Signs Installed
+60
+60
+60
+Non-Motorized Transport (NMT) Infrastructure Development and Maintenance
+Enhanced
+03
+1 Kilometers of pedestrian walkways constructed
+1
+1
+1
+2 Kilometers of pedestrian walkways maintained
+1
+1
+1
+3 Kilometers of cycle lanes constructed
+2
+2
+2
+Street Lighting and Traffic Control Systems Improved
+01
+1 Number of Street lighting poles erected
+100
+100
+100
+3 Number of traffic lights Junctions maintained
+5
+5
+5
+Library & Information Services Enhanced
+01
+1 Number of Library Facilities Upgraded
+1
+1
+1
+Sports, Arts & Cultural Development Promoted
+01
+1 Number of sports facilities rehabilitated
+2
+2
+2
+2 Number of talent identification and development activities conducted
+2
+2
+2
+3 Number of sports clubs sponsored
+4
+4
+4
+District Records Management Strengthened
+01
+1 Number of survey reports produced
+2
+2
+2
+2 Percentage of records collected
+100
+100
+100
+3 Percentage of processed records shelved
+100
+100
+100
+Quality Early Childhood Education Services Expanded
+01
+
+===== PAGE 62 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 62
+9006
+HEAD
+LUSAKA CITY COUNCIL
+1 Number of play spaces established
+9
+9
+9
+2 Number of orphans and vulnerable pupils provided pre-school education
+200
+200
+200
+3 Number of pre-school children enrolled
+200
+200
+200
+4 Number of learning kit & materials provided
+1,200
+1,200
+1,200
+Community Safety and Security Enhanced
+03
+1 Number of compliance patrols undertaken
+365
+365
+365
+2 Number of Council Properties Secured
+74
+74
+74
+Fire Safety and Emergency Response Strengthened
+01
+1 Percentage of emergency calls within 20–30 KM radius responded
+100
+100
+100
+2 Percentage of causes of fires determined
+100
+100
+100
+3 Number of fire certificates issued
+46,000
+46,000
+46,000
+Human Resource Management Strengthened
+01
+1 Number of Council Police Officers recruited
+70
+70
+70
+2 Number of Human resource reports prepared
+12
+12
+12
+Marriages Solemnized
+02
+1 Percentage of marriages solemnized
+100
+100
+100
+Public Engagement and Awareness Strengthened
+03
+1 Number of Local forums held
+7
+7
+7
+2 Number of media briefings held
+24
+24
+24
+3 Number of Municipal campaigns conducted
+12
+12
+12
+Change Management strategy executed
+01
+1 Percentage of municipal services accessed via digital platforms
+70
+70
+70
+2 Percentage of citizen engagements through digital platforms conducted
+50
+50
+50
+3 Percentage in digital revenue collection increased
+70
+70
+70
+Procurement Processes Managed
+01
+1 Number of Procurement Plans developed
+1
+1
+1
+2 Percentage of tenders advertised and awarded
+100
+100
+100
+Information & Communication Technology (ICT) Systems and Infrastructure
+Optimized
+01
+1 Percentage of ICT infrastructure maintained
+100
+100
+100
+2 Number of Enterprise Resource Planning System operationalized
+1
+1
+1
+Audit and Compliance Strengthened
+01
+1 Number of audit reports prepared
+4
+4
+4
+2 Percentage of audit recommendations actioned
+100
+100
+100
+Financial Management and Reporting Strengthened
+01
+1 Number of Financial Statements Prepared
+1
+1
+1
+2 Number of annual budgets prepared
+1
+1
+1
+
+===== PAGE 63 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 63
+9006
+HEAD
+LUSAKA CITY COUNCIL
+3 Percentage of council debt liquidated
+8
+8
+8
+Budget Performance and Accountability Monitored
+02
+1 Number of budget performance reports produced
+4
+4
+4
+2 Number of budget stakeholder meetings held
+16
+16
+16
+Land and Property Administration Strengthened
+01
+1 Number  Of Title Deeds Prepared
+150
+150
+150
+2 Number of Offer letters processed
+10
+10
+10
+3 Number of change of onwership documents processed
+500
+500
+500
+Licensing and Compliance Services Strengthened
+02
+1 Number of business levies issued
+50,000
+50,000
+50,000
+2 Number of occupancy licenses prepared
+300
+300
+300
+3 Number of liquor licenses issued
+1,000
+1,000
+1,000
+Revenue Collection Strengthened
+01
+1 Proportion of budgeted revenue collected (OSR)
+100
+100
+100
+2 Number of revenue check points manned (markets and parking areas)
+94
+94
+94
+Valuation Roll Updated.
+02
+1 Percentage of valuation roll updated
+100
+100
+100
+Childhood Immunization Services Provided
+01
+1 Percentage of children under one year fully vaccinated
+90
+90
+90
+Maternal and Child Health Care Services Provided
+02
+1 Percentage of pregnant women receiving at least one antenatal care (ANC) visit
+90
+90
+90
+Reproductive and Maternal Health Services Provided
+03
+1 Percentage of deliveries conducted in health facilities under skilled supervision
+87
+87
+87
+2 Number of new family planning acceptors recorded
+2,000
+2,000
+2,000
+Malaria Prevention and Case Management Services Provided
+04
+1 Percentage of malaria inpatients who died due to malaria
+(0)
+(0)
+(0)
+HIV Prevention, Testing, and Treatment Services Provided
+05
+1 Percentage of people living with HIV aware of their HIV status
+95
+95
+95
+2 Percentage of newly diagnosed HIV-positive individuals initiated on ART
+95
+95
+95
+Nutrition Services Provided
+06
+1 Number of health facilities with functional nutrition equipment and tools
+65
+65
+65
+Clean Water Supply and Sanitation Services Provided to Health Facilities
+07
+1 Number of health facilities with adequate clean and safe water supply
+66
+66
+66
+2 Number of health facilities with functional waterborne toilet facilities
+66
+66
+66
+Environmental Health Services Conducted
+08
+1 Number of premises inspected and found compliant with public health standards
+36,250
+36,250
+36,250
+2 Number of epidemic preparedness meetings conducted
+4
+4
+4
+
+===== PAGE 64 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 64
+9006
+HEAD
+LUSAKA CITY COUNCIL
+Health Promotion and Behavior Change Services Provided
+09
+1 Number of people reached through health education activities
+2,000,000
+2,000,000 2,000,000
+2 Number of social and behavior change (SBC) materials distributed
+70,000
+70,000
+70,000
+Community engagement strengthened
+01
+1 Number of stakeholder meetings held
+2
+2
+2
+Referral system strengthened
+02
+1 Percentage of cases referred
+100
+100
+100
+Road Infrastructure Developed
+01
+1 Number of Road Signages Installed
+60
+60
+60
+2 Kilometer of Road Markings Painted
+2
+2
+2
+3 Kilometers of drainage constructed
+2
+2
+2
+4 Kilometers of drainage rehabilitated
+2
+2
+2
+5 Kilometers of township roads rehabilitated
+2
+2
+2
+6 Number of Street Lights Installed
+40
+40
+40
+Farmers and Extension Officers Trained
+01
+1 Number of farmers trained
+500
+500
+500
+2 Number of extension officers trained
+500
+500
+500
+Crop monitoring conducted
+02
+1 Number of crop monitoring inspections conducted
+32
+32
+32
+Agricultural information disseminated
+01
+1 Percentage of agricultural information disseminated
+100
+100
+100
+Agricultural show exhibitions conducted
+02
+1 Number of shows participated
+2
+2
+2
+Entrepreneurship development promoted
+03
+1 Number of entrepreneurship trainings conducted
+5
+5
+5
+Farmer registration facilitated
+04
+1 Number of farmers registered on ZIAMIS
+500
+500
+500
+Monitoring & evaluation of agricultural programmes conducted
+01
+1 Number of Monitoring & Evaluation reports produced
+4
+4
+4
+Market access and entrepreneurship strengthened
+01
+1 Number of entrepreneurs trained
+100
+100
+100
+Livestock health and disease control improved
+01
+1 Number of disease surveillance  conducted
+500
+500
+500
+2 Number of stock movement permits issued
+3,800
+3,800
+3,800
+3 Number of export permits issued
+3,500
+3,500
+3,500
+4 Number of extension visits conducted
+36
+36
+36
+Capture fisheries productivity improved
+01
+
+===== PAGE 65 =====
+Extraction method: normal extraction
+
+OUTPUT BASED  ANNUAL BUDGET
+Page 65
+9006
+HEAD
+LUSAKA CITY COUNCIL
+1 Number of surveillance and law enforcement operations conducted
+4
+4
+4
+Aquaculture productivity improved
+02
+1 Number of sustainable fisheries practices promoted
+48
+48
+48
+Livestock production increased
+01
+1 Number of extension visits conducted
+62
+62
+62
+2 Number of extension trainings and demonstrations conducted
+9
+9
+9
+Cash for Work Programme Implemented
+01
+1 Number of Cash for Work beneficiaries supported
+15,379
+15,379
+15,379
+2 Amount of Cash for Work funds disbursed
+59,563,160
+59,563,160 59,563,160
+Welfare Services Provided
+02
+1 Number of households supported
+25
+25
+25
